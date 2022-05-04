@@ -1,0 +1,381 @@
+id_match,id_team_home,name_team_home,id_team_away,name_team_away,score_HT,score_FT
+592143.0,36.0,Fulham,42.0,Arsenal,0-1,0-3
+592142.0,52.0,Crystal Palace,41.0,Southampton,1-0,1-0
+592144.0,40.0,Liverpool,63.0,Leeds,3-2,4-3
+592148.0,48.0,West Ham,34.0,Newcastle,0-0,0-2
+592147.0,60.0,West Brom,46.0,Leicester,0-0,0-3
+592146.0,47.0,Tottenham,45.0,Everton,0-0,0-1
+592150.0,62.0,Sheffield Utd,39.0,Wolves,0-2,0-2
+592149.0,51.0,Brighton,49.0,Chelsea,0-1,1-3
+592154.0,45.0,Everton,60.0,West Brom,2-1,5-2
+592155.0,63.0,Leeds,36.0,Fulham,2-1,4-3
+592157.0,33.0,Manchester United,52.0,Crystal Palace,0-1,1-3
+592151.0,42.0,Arsenal,48.0,West Ham,1-1,2-1
+592159.0,41.0,Southampton,47.0,Tottenham,1-1,2-5
+592158.0,34.0,Newcastle,51.0,Brighton,0-2,0-3
+592153.0,49.0,Chelsea,40.0,Liverpool,0-0,0-2
+592156.0,46.0,Leicester,44.0,Burnley,1-1,4-2
+592152.0,66.0,Aston Villa,62.0,Sheffield Utd,0-0,1-0
+592160.0,39.0,Wolves,50.0,Manchester City,0-2,1-3
+592161.0,51.0,Brighton,33.0,Manchester United,1-1,2-3
+592163.0,52.0,Crystal Palace,45.0,Everton,1-2,1-2
+592169.0,60.0,West Brom,49.0,Chelsea,3-0,3-3
+592162.0,44.0,Burnley,41.0,Southampton,0-1,0-1
+592167.0,62.0,Sheffield Utd,63.0,Leeds,0-0,0-1
+592168.0,47.0,Tottenham,34.0,Newcastle,1-0,1-1
+592166.0,50.0,Manchester City,46.0,Leicester,1-1,2-5
+592170.0,48.0,West Ham,39.0,Wolves,1-0,4-0
+592164.0,36.0,Fulham,66.0,Aston Villa,0-2,0-3
+592165.0,40.0,Liverpool,42.0,Arsenal,2-1,3-1
+592173.0,49.0,Chelsea,52.0,Crystal Palace,0-0,4-0
+592174.0,45.0,Everton,51.0,Brighton,2-1,4-2
+592175.0,63.0,Leeds,50.0,Manchester City,0-1,1-1
+592178.0,34.0,Newcastle,44.0,Burnley,1-0,3-1
+592176.0,46.0,Leicester,48.0,West Ham,0-2,0-3
+592179.0,41.0,Southampton,60.0,West Brom,1-0,2-0
+592171.0,42.0,Arsenal,62.0,Sheffield Utd,0-0,2-1
+592180.0,39.0,Wolves,36.0,Fulham,0-0,1-0
+592177.0,33.0,Manchester United,47.0,Tottenham,1-4,1-6
+592172.0,66.0,Aston Villa,40.0,Liverpool,4-1,7-2
+592183.0,45.0,Everton,40.0,Liverpool,1-1,2-2
+592181.0,49.0,Chelsea,41.0,Southampton,2-1,3-3
+592186.0,50.0,Manchester City,42.0,Arsenal,1-0,1-0
+592187.0,34.0,Newcastle,33.0,Manchester United,1-1,1-4
+592188.0,62.0,Sheffield Utd,36.0,Fulham,0-0,1-1
+592182.0,52.0,Crystal Palace,51.0,Brighton,1-0,1-1
+592189.0,47.0,Tottenham,48.0,West Ham,3-0,3-3
+592185.0,46.0,Leicester,66.0,Aston Villa,0-0,0-1
+592190.0,60.0,West Brom,44.0,Burnley,0-0,0-0
+592184.0,63.0,Leeds,39.0,Wolves,0-0,0-1
+592192.0,66.0,Aston Villa,63.0,Leeds,0-0,0-3
+592199.0,48.0,West Ham,50.0,Manchester City,1-0,1-1
+592195.0,36.0,Fulham,52.0,Crystal Palace,0-1,1-2
+592197.0,33.0,Manchester United,49.0,Chelsea,0-0,0-0
+592196.0,40.0,Liverpool,62.0,Sheffield Utd,1-1,2-1
+592198.0,41.0,Southampton,45.0,Everton,2-0,2-0
+592200.0,39.0,Wolves,34.0,Newcastle,0-0,1-1
+592191.0,42.0,Arsenal,46.0,Leicester,0-0,0-1
+592193.0,51.0,Brighton,60.0,West Brom,1-0,1-1
+592194.0,44.0,Burnley,47.0,Tottenham,0-0,0-1
+592210.0,39.0,Wolves,52.0,Crystal Palace,2-0,2-0
+592208.0,62.0,Sheffield Utd,50.0,Manchester City,0-1,0-1
+592202.0,44.0,Burnley,49.0,Chelsea,0-1,0-3
+592205.0,40.0,Liverpool,48.0,West Ham,1-1,2-1
+592201.0,66.0,Aston Villa,41.0,Southampton,0-3,3-4
+592207.0,34.0,Newcastle,45.0,Everton,0-0,2-1
+592206.0,33.0,Manchester United,42.0,Arsenal,0-0,0-1
+592209.0,47.0,Tottenham,51.0,Brighton,1-0,2-1
+592203.0,36.0,Fulham,60.0,West Brom,2-0,2-0
+592204.0,63.0,Leeds,46.0,Leicester,0-2,1-4
+592212.0,51.0,Brighton,44.0,Burnley,0-0,0-0
+592218.0,41.0,Southampton,34.0,Newcastle,1-0,2-0
+592215.0,45.0,Everton,33.0,Manchester United,1-2,1-3
+592214.0,52.0,Crystal Palace,63.0,Leeds,3-1,4-1
+592213.0,49.0,Chelsea,62.0,Sheffield Utd,2-1,4-1
+592220.0,48.0,West Ham,36.0,Fulham,0-0,1-0
+592219.0,60.0,West Brom,47.0,Tottenham,0-0,0-1
+592216.0,46.0,Leicester,39.0,Wolves,1-0,1-0
+592217.0,50.0,Manchester City,40.0,Liverpool,1-1,1-1
+592211.0,42.0,Arsenal,66.0,Aston Villa,0-1,0-3
+592227.0,34.0,Newcastle,49.0,Chelsea,0-1,0-2
+592221.0,66.0,Aston Villa,51.0,Brighton,0-1,1-2
+592229.0,47.0,Tottenham,50.0,Manchester City,1-0,2-0
+592226.0,33.0,Manchester United,60.0,West Brom,0-0,1-0
+592223.0,36.0,Fulham,45.0,Everton,1-3,2-3
+592228.0,62.0,Sheffield Utd,48.0,West Ham,0-0,0-1
+592224.0,63.0,Leeds,42.0,Arsenal,0-0,0-0
+592225.0,40.0,Liverpool,46.0,Leicester,2-0,3-0
+592222.0,44.0,Burnley,52.0,Crystal Palace,1-0,1-0
+592230.0,39.0,Wolves,41.0,Southampton,0-0,1-1
+592234.0,52.0,Crystal Palace,34.0,Newcastle,0-0,0-2
+592232.0,51.0,Brighton,40.0,Liverpool,0-0,1-1
+592237.0,50.0,Manchester City,44.0,Burnley,3-0,5-0
+592235.0,45.0,Everton,63.0,Leeds,0-0,0-1
+592239.0,60.0,West Brom,62.0,Sheffield Utd,1-0,1-0
+592238.0,41.0,Southampton,33.0,Manchester United,2-0,2-3
+592233.0,49.0,Chelsea,47.0,Tottenham,0-0,0-0
+592231.0,42.0,Arsenal,39.0,Wolves,1-2,1-2
+592236.0,46.0,Leicester,36.0,Fulham,0-2,1-2
+592240.0,48.0,West Ham,66.0,Aston Villa,1-1,2-1
+592243.0,44.0,Burnley,45.0,Everton,1-1,1-1
+592246.0,50.0,Manchester City,36.0,Fulham,2-0,2-0
+592250.0,48.0,West Ham,33.0,Manchester United,1-0,1-3
+592244.0,49.0,Chelsea,63.0,Leeds,1-1,3-1
+592249.0,60.0,West Brom,52.0,Crystal Palace,1-1,1-5
+592247.0,62.0,Sheffield Utd,46.0,Leicester,1-1,1-2
+592248.0,47.0,Tottenham,42.0,Arsenal,2-0,2-0
+592245.0,40.0,Liverpool,39.0,Wolves,1-0,4-0
+592242.0,51.0,Brighton,41.0,Southampton,1-1,1-2
+592255.0,63.0,Leeds,48.0,West Ham,1-1,1-2
+592260.0,39.0,Wolves,66.0,Aston Villa,0-0,0-1
+592258.0,34.0,Newcastle,60.0,West Brom,1-0,2-1
+592257.0,33.0,Manchester United,50.0,Manchester City,0-0,0-0
+592253.0,45.0,Everton,49.0,Chelsea,1-0,1-0
+592259.0,41.0,Southampton,62.0,Sheffield Utd,1-0,3-0
+592252.0,52.0,Crystal Palace,47.0,Tottenham,0-1,1-1
+592254.0,36.0,Fulham,40.0,Liverpool,1-0,1-1
+592251.0,42.0,Arsenal,44.0,Burnley,0-0,0-1
+592256.0,46.0,Leicester,51.0,Brighton,3-0,3-0
+592268.0,39.0,Wolves,49.0,Chelsea,0-0,2-1
+592270.0,50.0,Manchester City,60.0,West Brom,1-1,1-1
+592261.0,42.0,Arsenal,41.0,Southampton,0-1,1-1
+592264.0,63.0,Leeds,34.0,Newcastle,1-1,5-2
+592265.0,46.0,Leicester,45.0,Everton,0-1,0-2
+592263.0,36.0,Fulham,51.0,Brighton,0-0,0-0
+592267.0,48.0,West Ham,52.0,Crystal Palace,0-1,1-1
+592269.0,40.0,Liverpool,47.0,Tottenham,1-1,2-1
+592262.0,66.0,Aston Villa,44.0,Burnley,0-0,0-0
+592266.0,62.0,Sheffield Utd,33.0,Manchester United,1-2,2-3
+592274.0,52.0,Crystal Palace,40.0,Liverpool,0-3,0-7
+592278.0,41.0,Southampton,50.0,Manchester City,0-1,0-1
+592275.0,45.0,Everton,42.0,Arsenal,2-1,2-1
+592277.0,34.0,Newcastle,36.0,Fulham,0-1,1-1
+592271.0,51.0,Brighton,62.0,Sheffield Utd,0-0,1-1
+592279.0,47.0,Tottenham,46.0,Leicester,0-1,0-2
+592276.0,33.0,Manchester United,63.0,Leeds,4-1,6-2
+592280.0,60.0,West Brom,66.0,Aston Villa,0-1,0-3
+592272.0,44.0,Burnley,39.0,Wolves,1-0,2-1
+592273.0,49.0,Chelsea,48.0,West Ham,1-0,3-0
+592285.0,46.0,Leicester,33.0,Manchester United,1-1,2-2
+592282.0,66.0,Aston Villa,52.0,Crystal Palace,1-0,3-0
+592283.0,36.0,Fulham,41.0,Southampton,0-0,0-0
+592281.0,42.0,Arsenal,49.0,Chelsea,2-0,3-1
+592287.0,50.0,Manchester City,34.0,Newcastle,1-0,2-0
+592288.0,62.0,Sheffield Utd,45.0,Everton,0-0,0-1
+592284.0,63.0,Leeds,44.0,Burnley,1-0,1-0
+592289.0,48.0,West Ham,51.0,Brighton,0-1,2-2
+592286.0,40.0,Liverpool,60.0,West Brom,1-0,1-1
+592290.0,39.0,Wolves,47.0,Tottenham,0-1,1-1
+592294.0,52.0,Crystal Palace,46.0,Leicester,0-0,1-1
+592293.0,49.0,Chelsea,66.0,Aston Villa,1-0,1-1
+592291.0,51.0,Brighton,42.0,Arsenal,0-0,0-1
+592292.0,44.0,Burnley,62.0,Sheffield Utd,1-0,1-0
+592298.0,41.0,Southampton,48.0,West Ham,0-0,0-0
+592300.0,60.0,West Brom,63.0,Leeds,0-4,0-5
+592296.0,33.0,Manchester United,39.0,Wolves,0-0,1-0
+592297.0,34.0,Newcastle,40.0,Liverpool,0-0,0-0
+592305.0,45.0,Everton,48.0,West Ham,0-0,0-1
+592306.0,33.0,Manchester United,66.0,Aston Villa,1-0,2-1
+592309.0,47.0,Tottenham,63.0,Leeds,2-0,3-0
+592304.0,52.0,Crystal Palace,62.0,Sheffield Utd,2-0,2-0
+592301.0,51.0,Brighton,39.0,Wolves,1-3,3-3
+592310.0,60.0,West Brom,42.0,Arsenal,0-2,0-4
+592307.0,34.0,Newcastle,46.0,Leicester,0-0,1-2
+592303.0,49.0,Chelsea,50.0,Manchester City,0-3,1-3
+592308.0,41.0,Southampton,40.0,Liverpool,1-0,1-0
+592316.0,62.0,Sheffield Utd,34.0,Newcastle,0-0,1-0
+592141.0,44.0,Burnley,33.0,Manchester United,0-0,0-1
+592318.0,39.0,Wolves,45.0,Everton,1-1,1-2
+592320.0,50.0,Manchester City,51.0,Brighton,1-0,1-0
+592299.0,47.0,Tottenham,36.0,Fulham,1-0,1-1
+592311.0,42.0,Arsenal,52.0,Crystal Palace,0-0,0-0
+592330.0,39.0,Wolves,60.0,West Brom,2-1,2-3
+592324.0,63.0,Leeds,51.0,Brighton,0-1,0-1
+592329.0,48.0,West Ham,44.0,Burnley,1-0,1-0
+592323.0,36.0,Fulham,49.0,Chelsea,0-0,0-1
+592325.0,46.0,Leicester,41.0,Southampton,1-0,2-0
+592328.0,62.0,Sheffield Utd,47.0,Tottenham,0-2,1-3
+592326.0,40.0,Liverpool,33.0,Manchester United,0-0,0-0
+592327.0,50.0,Manchester City,52.0,Crystal Palace,1-0,4-0
+592321.0,42.0,Arsenal,34.0,Newcastle,0-0,3-0
+592317.0,48.0,West Ham,60.0,West Brom,1-0,2-1
+592315.0,46.0,Leicester,49.0,Chelsea,2-0,2-0
+592145.0,50.0,Manchester City,66.0,Aston Villa,0-0,2-0
+592313.0,36.0,Fulham,33.0,Manchester United,1-1,1-2
+592319.0,40.0,Liverpool,44.0,Burnley,0-0,0-1
+592241.0,66.0,Aston Villa,34.0,Newcastle,2-0,2-0
+592337.0,34.0,Newcastle,63.0,Leeds,0-1,1-2
+592340.0,52.0,Crystal Palace,48.0,West Ham,1-2,2-3
+592335.0,60.0,West Brom,50.0,Manchester City,0-4,0-5
+592338.0,41.0,Southampton,42.0,Arsenal,1-2,1-3
+592332.0,44.0,Burnley,66.0,Aston Villa,0-1,3-2
+592336.0,49.0,Chelsea,39.0,Wolves,0-0,0-0
+592331.0,51.0,Brighton,36.0,Fulham,0-0,0-0
+592333.0,45.0,Everton,46.0,Leicester,1-0,1-1
+592334.0,33.0,Manchester United,62.0,Sheffield Utd,0-1,1-2
+592339.0,47.0,Tottenham,40.0,Liverpool,0-1,1-3
+592345.0,45.0,Everton,34.0,Newcastle,0-0,0-2
+592344.0,52.0,Crystal Palace,39.0,Wolves,0-0,1-0
+592347.0,50.0,Manchester City,62.0,Sheffield Utd,1-0,1-0
+592349.0,60.0,West Brom,36.0,Fulham,0-1,2-2
+592341.0,42.0,Arsenal,33.0,Manchester United,0-0,0-0
+592348.0,41.0,Southampton,66.0,Aston Villa,0-1,0-1
+592343.0,49.0,Chelsea,44.0,Burnley,1-0,2-0
+592346.0,46.0,Leicester,63.0,Leeds,1-1,1-3
+592350.0,48.0,West Ham,40.0,Liverpool,0-0,1-3
+592342.0,51.0,Brighton,47.0,Tottenham,1-0,1-0
+592355.0,62.0,Sheffield Utd,60.0,West Brom,0-1,2-1
+592356.0,39.0,Wolves,42.0,Arsenal,1-1,2-1
+592357.0,33.0,Manchester United,41.0,Southampton,4-0,9-0
+592358.0,34.0,Newcastle,52.0,Crystal Palace,1-2,1-2
+592352.0,44.0,Burnley,50.0,Manchester City,0-2,0-2
+592353.0,36.0,Fulham,46.0,Leicester,0-2,0-2
+592354.0,63.0,Leeds,45.0,Everton,0-2,1-2
+592351.0,66.0,Aston Villa,48.0,West Ham,0-0,1-3
+592360.0,40.0,Liverpool,51.0,Brighton,0-0,0-1
+592359.0,47.0,Tottenham,49.0,Chelsea,0-1,0-1
+592361.0,66.0,Aston Villa,42.0,Arsenal,1-0,1-0
+592362.0,44.0,Burnley,51.0,Brighton,0-1,1-1
+592367.0,34.0,Newcastle,41.0,Southampton,3-1,3-2
+592363.0,36.0,Fulham,48.0,West Ham,0-0,0-0
+592366.0,33.0,Manchester United,45.0,Everton,2-0,3-3
+592369.0,47.0,Tottenham,60.0,West Brom,0-0,2-0
+592370.0,39.0,Wolves,46.0,Leicester,0-0,0-0
+592365.0,40.0,Liverpool,50.0,Manchester City,0-0,1-4
+592368.0,62.0,Sheffield Utd,49.0,Chelsea,0-1,1-2
+592364.0,63.0,Leeds,52.0,Crystal Palace,1-0,2-0
+592731.0,46.0,Leicester,40.0,Liverpool,0-0,3-1
+592729.0,52.0,Crystal Palace,44.0,Burnley,0-2,0-3
+592732.0,50.0,Manchester City,47.0,Tottenham,1-0,3-0
+592727.0,51.0,Brighton,66.0,Aston Villa,0-0,0-0
+592733.0,41.0,Southampton,39.0,Wolves,1-0,1-2
+592734.0,60.0,West Brom,33.0,Manchester United,1-1,1-1
+592726.0,42.0,Arsenal,63.0,Leeds,3-0,4-2
+592730.0,45.0,Everton,36.0,Fulham,0-0,0-2
+592735.0,48.0,West Ham,62.0,Sheffield Utd,1-0,3-0
+592728.0,49.0,Chelsea,34.0,Newcastle,2-0,2-0
+592302.0,44.0,Burnley,36.0,Fulham,0-0,1-1
+592295.0,45.0,Everton,50.0,Manchester City,1-1,1-3
+592745.0,39.0,Wolves,63.0,Leeds,0-0,1-0
+592743.0,41.0,Southampton,49.0,Chelsea,1-0,1-1
+592739.0,44.0,Burnley,60.0,West Brom,0-0,0-0
+592741.0,40.0,Liverpool,45.0,Everton,0-1,0-2
+592740.0,36.0,Fulham,62.0,Sheffield Utd,0-0,1-0
+592744.0,48.0,West Ham,47.0,Tottenham,1-0,2-1
+592737.0,66.0,Aston Villa,46.0,Leicester,0-2,1-2
+592736.0,42.0,Arsenal,50.0,Manchester City,0-1,0-1
+592742.0,33.0,Manchester United,34.0,Newcastle,1-1,3-1
+592738.0,51.0,Brighton,52.0,Crystal Palace,0-1,1-2
+592314.0,63.0,Leeds,41.0,Southampton,0-0,3-0
+592751.0,50.0,Manchester City,48.0,West Ham,1-1,2-1
+592755.0,60.0,West Brom,51.0,Brighton,1-0,1-0
+592749.0,63.0,Leeds,66.0,Aston Villa,0-1,0-1
+592752.0,34.0,Newcastle,39.0,Wolves,0-0,1-1
+592747.0,52.0,Crystal Palace,36.0,Fulham,0-0,0-0
+592750.0,46.0,Leicester,42.0,Arsenal,1-2,1-3
+592754.0,47.0,Tottenham,44.0,Burnley,3-0,4-0
+592746.0,49.0,Chelsea,33.0,Manchester United,0-0,0-0
+592753.0,62.0,Sheffield Utd,40.0,Liverpool,0-0,0-2
+592748.0,45.0,Everton,41.0,Southampton,1-0,1-0
+592781.0,50.0,Manchester City,39.0,Wolves,1-0,4-1
+592777.0,44.0,Burnley,46.0,Leicester,1-1,1-1
+592782.0,62.0,Sheffield Utd,66.0,Aston Villa,1-0,1-0
+592778.0,52.0,Crystal Palace,33.0,Manchester United,0-0,0-0
+592784.0,60.0,West Brom,45.0,Everton,0-0,0-1
+592818.0,36.0,Fulham,47.0,Tottenham,0-1,0-1
+592780.0,40.0,Liverpool,49.0,Chelsea,0-1,0-1
+592758.0,44.0,Burnley,42.0,Arsenal,1-1,1-1
+592762.0,62.0,Sheffield Utd,41.0,Southampton,0-1,0-2
+592756.0,66.0,Aston Villa,39.0,Wolves,0-0,0-0
+592757.0,51.0,Brighton,46.0,Leicester,1-0,1-2
+592764.0,60.0,West Brom,34.0,Newcastle,0-0,0-0
+592760.0,40.0,Liverpool,36.0,Fulham,0-1,0-1
+592761.0,50.0,Manchester City,33.0,Manchester United,0-1,0-2
+592763.0,47.0,Tottenham,52.0,Crystal Palace,1-1,4-1
+592759.0,49.0,Chelsea,45.0,Everton,1-0,2-0
+592765.0,48.0,West Ham,63.0,Leeds,2-0,2-0
+592822.0,50.0,Manchester City,41.0,Southampton,3-1,5-2
+592773.0,34.0,Newcastle,66.0,Aston Villa,0-0,1-1
+592770.0,63.0,Leeds,49.0,Chelsea,0-0,0-0
+592767.0,52.0,Crystal Palace,60.0,West Brom,1-0,1-0
+592768.0,45.0,Everton,44.0,Burnley,1-2,1-2
+592769.0,36.0,Fulham,50.0,Manchester City,0-0,0-3
+592774.0,41.0,Southampton,51.0,Brighton,1-1,1-2
+592771.0,46.0,Leicester,62.0,Sheffield Utd,1-0,5-0
+592766.0,42.0,Arsenal,47.0,Tottenham,1-1,2-1
+592772.0,33.0,Manchester United,48.0,West Ham,0-0,1-0
+592775.0,39.0,Wolves,40.0,Liverpool,0-1,0-1
+592779.0,36.0,Fulham,63.0,Leeds,1-1,1-2
+592776.0,51.0,Brighton,34.0,Newcastle,1-0,3-0
+592785.0,48.0,West Ham,42.0,Arsenal,3-1,3-3
+592312.0,66.0,Aston Villa,47.0,Tottenham,0-1,0-2
+592788.0,49.0,Chelsea,60.0,West Brom,1-2,2-5
+592790.0,63.0,Leeds,62.0,Sheffield Utd,1-1,2-1
+592791.0,46.0,Leicester,50.0,Manchester City,0-0,0-2
+592786.0,42.0,Arsenal,40.0,Liverpool,0-0,0-3
+592794.0,41.0,Southampton,44.0,Burnley,2-2,3-2
+592793.0,34.0,Newcastle,47.0,Tottenham,1-2,2-2
+592787.0,66.0,Aston Villa,36.0,Fulham,0-0,3-1
+592792.0,33.0,Manchester United,51.0,Brighton,0-1,2-1
+592789.0,45.0,Everton,52.0,Crystal Palace,0-0,1-1
+592795.0,39.0,Wolves,48.0,West Ham,1-3,2-3
+592799.0,36.0,Fulham,39.0,Wolves,0-0,0-1
+592801.0,50.0,Manchester City,63.0,Leeds,0-1,1-2
+592800.0,40.0,Liverpool,66.0,Aston Villa,0-1,2-1
+592798.0,52.0,Crystal Palace,49.0,Chelsea,0-3,1-4
+592797.0,44.0,Burnley,34.0,Newcastle,1-0,1-2
+592805.0,48.0,West Ham,46.0,Leicester,2-0,3-2
+592803.0,47.0,Tottenham,33.0,Manchester United,1-0,1-3
+592802.0,62.0,Sheffield Utd,42.0,Arsenal,0-1,0-3
+592804.0,60.0,West Brom,41.0,Southampton,2-0,3-0
+592796.0,51.0,Brighton,45.0,Everton,0-0,0-0
+592809.0,45.0,Everton,47.0,Tottenham,1-1,2-2
+592813.0,34.0,Newcastle,48.0,West Ham,2-0,3-2
+592815.0,39.0,Wolves,62.0,Sheffield Utd,0-0,1-0
+592806.0,42.0,Arsenal,36.0,Fulham,0-0,1-1
+592812.0,33.0,Manchester United,44.0,Burnley,0-0,3-1
+592810.0,63.0,Leeds,40.0,Liverpool,0-1,1-1
+592808.0,49.0,Chelsea,51.0,Brighton,0-0,0-0
+592783.0,47.0,Tottenham,41.0,Southampton,0-1,2-1
+592807.0,66.0,Aston Villa,50.0,Manchester City,1-2,1-2
+592811.0,46.0,Leicester,60.0,West Brom,3-0,3-0
+592816.0,42.0,Arsenal,45.0,Everton,0-0,0-1
+592821.0,40.0,Liverpool,34.0,Newcastle,1-0,1-1
+592824.0,48.0,West Ham,49.0,Chelsea,0-1,0-1
+592823.0,62.0,Sheffield Utd,51.0,Brighton,1-0,1-0
+592825.0,39.0,Wolves,44.0,Burnley,0-3,0-4
+592819.0,63.0,Leeds,33.0,Manchester United,0-0,0-0
+592817.0,66.0,Aston Villa,60.0,West Brom,1-1,2-2
+592820.0,46.0,Leicester,52.0,Crystal Palace,0-1,2-1
+592833.0,41.0,Southampton,46.0,Leicester,0-0,1-1
+592829.0,52.0,Crystal Palace,50.0,Manchester City,0-0,0-2
+592826.0,51.0,Brighton,63.0,Leeds,1-0,2-0
+592828.0,49.0,Chelsea,36.0,Fulham,1-0,2-0
+592830.0,45.0,Everton,66.0,Aston Villa,1-1,1-2
+592832.0,34.0,Newcastle,42.0,Arsenal,0-1,0-2
+592834.0,47.0,Tottenham,62.0,Sheffield Utd,1-0,4-0
+592835.0,60.0,West Brom,39.0,Wolves,0-1,1-1
+592827.0,44.0,Burnley,48.0,West Ham,1-2,1-2
+592840.0,46.0,Leicester,34.0,Newcastle,0-2,2-4
+592839.0,63.0,Leeds,47.0,Tottenham,2-1,3-1
+592843.0,62.0,Sheffield Utd,52.0,Crystal Palace,0-1,0-2
+592842.0,50.0,Manchester City,49.0,Chelsea,1-0,1-2
+592841.0,40.0,Liverpool,41.0,Southampton,1-0,2-0
+592845.0,39.0,Wolves,51.0,Brighton,0-1,2-1
+592837.0,66.0,Aston Villa,33.0,Manchester United,1-0,1-3
+592844.0,48.0,West Ham,45.0,Everton,0-1,0-1
+592836.0,42.0,Arsenal,60.0,West Brom,2-0,3-1
+592838.0,36.0,Fulham,44.0,Burnley,0-2,0-2
+592849.0,33.0,Manchester United,46.0,Leicester,1-1,1-2
+592814.0,41.0,Southampton,52.0,Crystal Palace,1-1,3-1
+592851.0,49.0,Chelsea,42.0,Arsenal,0-1,0-1
+592322.0,66.0,Aston Villa,45.0,Everton,0-0,0-0
+592831.0,33.0,Manchester United,40.0,Liverpool,1-2,2-4
+592852.0,34.0,Newcastle,50.0,Manchester City,2-2,3-4
+592847.0,44.0,Burnley,63.0,Leeds,0-1,0-4
+592853.0,41.0,Southampton,36.0,Fulham,1-0,3-1
+592846.0,51.0,Brighton,48.0,West Ham,0-0,1-1
+592855.0,52.0,Crystal Palace,66.0,Aston Villa,1-2,3-2
+592854.0,47.0,Tottenham,39.0,Wolves,1-0,2-0
+592850.0,60.0,West Brom,40.0,Liverpool,1-1,1-2
+592848.0,45.0,Everton,62.0,Sheffield Utd,0-1,0-1
+592861.0,33.0,Manchester United,36.0,Fulham,1-0,1-1
+592863.0,41.0,Southampton,63.0,Leeds,0-0,0-2
+592856.0,51.0,Brighton,50.0,Manchester City,0-1,3-2
+592858.0,49.0,Chelsea,46.0,Leicester,0-0,2-1
+592860.0,45.0,Everton,39.0,Wolves,0-0,1-0
+592862.0,34.0,Newcastle,62.0,Sheffield Utd,1-0,1-0
+592864.0,47.0,Tottenham,66.0,Aston Villa,1-2,1-2
+592859.0,52.0,Crystal Palace,42.0,Arsenal,0-1,1-3
+592857.0,44.0,Burnley,40.0,Liverpool,0-1,0-3
+592865.0,60.0,West Brom,48.0,West Ham,1-1,1-3
+592866.0,42.0,Arsenal,51.0,Brighton,0-0,2-0
+592867.0,66.0,Aston Villa,49.0,Chelsea,1-0,2-1
+592868.0,36.0,Fulham,34.0,Newcastle,0-1,0-2
+592869.0,63.0,Leeds,60.0,West Brom,2-0,3-1
+592870.0,46.0,Leicester,47.0,Tottenham,1-1,2-4
+592871.0,40.0,Liverpool,52.0,Crystal Palace,1-0,2-0
+592872.0,50.0,Manchester City,45.0,Everton,2-0,5-0
+592873.0,62.0,Sheffield Utd,44.0,Burnley,1-0,1-0
+592874.0,48.0,West Ham,41.0,Southampton,2-0,3-0
+592875.0,39.0,Wolves,33.0,Manchester United,1-2,1-2

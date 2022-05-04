@@ -1,0 +1,1027 @@
+mins,type,detail,player,teamName,id_match
+7,Goal,Own Goal,G. Hanley,Liverpool,157015
+19,Goal,Normal Goal,Mohamed Salah,Liverpool,157015
+28,Goal,Normal Goal,V. van Dijk,Liverpool,157015
+42,Goal,Normal Goal,D. Origi,Liverpool,157015
+64,Goal,Normal Goal,T. Pukki,Norwich,157015
+25,Goal,Normal Goal,Gabriel Jesus,Manchester City,157016
+51,Goal,Normal Goal,R. Sterling,Manchester City,157016
+75,Goal,Normal Goal,R. Sterling,Manchester City,157016
+86,Goal,Penalty,S. Agüero,Manchester City,157016
+90,Goal,Normal Goal,R. Sterling,Manchester City,157016
+62,Goal,Normal Goal,C. Mepham,Bournemouth,157017
+88,Goal,Normal Goal,B. Sharp,Sheffield Utd,157017
+63,Goal,Normal Goal,A. Barnes,Burnley,157018
+70,Goal,Normal Goal,A. Barnes,Burnley,157018
+75,Goal,Normal Goal,J. Guðmunds­son,Burnley,157018
+28,Goal,Own Goal,A. Doucouré,Brighton,157021
+65,Goal,Normal Goal,F. Andone,Brighton,157021
+77,Goal,Normal Goal,N. Maupay,Brighton,157021
+9,Goal,Normal Goal,J.  McGinn,Aston Villa,157022
+73,Goal,Normal Goal,T. Ndombèlé,Tottenham,157022
+86,Goal,Normal Goal,H. Kane,Tottenham,157022
+90,Goal,Normal Goal,H. Kane,Tottenham,157022
+58,Goal,Normal Goal,P. Aubameyang,Arsenal,157023
+18,Goal,Penalty,M. Rashford,Manchester United,157024
+65,Goal,Normal Goal,A. Martial,Manchester United,157024
+67,Goal,Normal Goal,M. Rashford,Manchester United,157024
+81,Goal,Normal Goal,D. James,Manchester United,157024
+13,Goal,Normal Goal,A. Lacazette,Arsenal,157025
+43,Goal,Normal Goal,A. Barnes,Burnley,157025
+64,Goal,Normal Goal,P. Aubameyang,Arsenal,157025
+2,Goal,Penalty,J. King,Bournemouth,157026
+12,Goal,Normal Goal,H. Wilson,Bournemouth,157026
+71,Goal,Normal Goal,Douglas Luiz,Aston Villa,157026
+61,Goal,Normal Goal,J. Hernández,West Ham,157027
+65,Goal,Normal Goal,L. Trossard,Brighton,157027
+10,Goal,Normal Goal,Bernard,Everton,157029
+32,Goal,Normal Goal,T. Pukki,Norwich,157031
+63,Goal,Normal Goal,T. Pukki,Norwich,157031
+75,Goal,Normal Goal,T. Pukki,Norwich,157031
+90,Goal,Normal Goal,J. Shelvey,Newcastle,157031
+45,Goal,Normal Goal,S. Mané,Liverpool,157033
+71,Goal,Normal Goal,Roberto Firmino,Liverpool,157033
+83,Goal,Normal Goal,D. Ings,Southampton,157033
+20,Goal,Normal Goal,R. Sterling,Manchester City,157030
+23,Goal,Normal Goal,E. Lamela,Tottenham,157030
+35,Goal,Normal Goal,S. Agüero,Manchester City,157030
+56,Goal,Normal Goal,Lucas Moura,Tottenham,157030
+47,Goal,Normal Goal,J. Lundstram,Sheffield Utd,157032
+7,Goal,Normal Goal,M. Mount,Chelsea,157028
+67,Goal,Normal Goal,W. Ndidi,Leicester,157028
+27,Goal,Normal Goal,A. Martial,Manchester United,157034
+55,Goal,Normal Goal,Rúben Neves,Wolves,157034
+21,Goal,Normal Goal,Wesley,Aston Villa,157036
+90,Goal,Normal Goal,A. El Ghazi,Aston Villa,157036
+3,Goal,Normal Goal,T. Abraham,Chelsea,157040
+6,Goal,Normal Goal,T. Cantwell,Norwich,157040
+17,Goal,Normal Goal,M. Mount,Chelsea,157040
+30,Goal,Normal Goal,T. Pukki,Norwich,157040
+68,Goal,Normal Goal,T. Abraham,Chelsea,157040
+55,Goal,Normal Goal,M. Djenepo,Southampton,157037
+90,Goal,Normal Goal,N. Redmond,Southampton,157037
+32,Goal,Normal Goal,J. Ayew,Crystal Palace,157039
+89,Goal,Normal Goal,D. James,Manchester United,157039
+90,Goal,Normal Goal,P. van Aanholt,Crystal Palace,157039
+38,Goal,Normal Goal,J. Vardy,Leicester,157041
+62,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157041
+70,Goal,Normal Goal,H. Barnes,Leicester,157041
+3,Goal,Penalty,M. Noble,West Ham,157043
+17,Goal,Normal Goal,A. Gray,Watford,157043
+64,Goal,Normal Goal,S. Haller,West Ham,157043
+73,Goal,Normal Goal,S. Haller,West Ham,157043
+41,Goal,Normal Goal,J. Matip,Liverpool,157038
+49,Goal,Penalty,Mohamed Salah,Liverpool,157038
+58,Goal,Normal Goal,Mohamed Salah,Liverpool,157038
+85,Goal,Normal Goal,L. Torreira,Arsenal,157038
+15,Goal,Normal Goal,S. Agüero,Manchester City,157035
+43,Goal,Normal Goal,R. Sterling,Manchester City,157035
+45,Goal,Normal Goal,H. Wilson,Bournemouth,157035
+64,Goal,Normal Goal,S. Agüero,Manchester City,157035
+27,Goal,Normal Goal,Joelinton,Newcastle,157042
+13,Goal,Normal Goal,A. Barnes,Burnley,157044
+90,Goal,Penalty,R. Jiménez,Wolves,157044
+10,Goal,Normal Goal,D. James,Manchester United,157053
+58,Goal,Normal Goal,J. Vestergaard,Southampton,157053
+19,Goal,Normal Goal,T. Abraham,Chelsea,157047
+43,Goal,Normal Goal,T. Abraham,Chelsea,157047
+46,Goal,Normal Goal,C. Robinson,Sheffield Utd,157047
+89,Goal,Own Goal,K. Zouma,Sheffield Utd,157047
+73,Goal,Normal Goal,J. Ayew,Crystal Palace,157048
+12,Goal,Normal Goal,J. Vardy,Leicester,157050
+15,Goal,Normal Goal,C. Wilson,Bournemouth,157050
+41,Goal,Normal Goal,Y. Tielemans,Leicester,157050
+73,Goal,Normal Goal,J. Vardy,Leicester,157050
+2,Goal,Normal Goal,K. De Bruyne,Manchester City,157051
+42,Goal,Normal Goal,S. Agüero,Manchester City,157051
+55,Goal,Normal Goal,S. Agüero,Manchester City,157051
+79,Goal,Normal Goal,Bernardo Silva,Manchester City,157051
+2,Goal,Normal Goal,W. Hughes,Watford,157052
+41,Goal,Normal Goal,F. Schär,Newcastle,157052
+24,Goal,Normal Goal,S. Haller,West Ham,157054
+56,Goal,Normal Goal,A. Yarmolenko,West Ham,157054
+33,Goal,Own Goal,C. Wood,Liverpool,157046
+37,Goal,Normal Goal,S. Mané,Liverpool,157046
+80,Goal,Normal Goal,Roberto Firmino,Liverpool,157046
+5,Goal,Normal Goal,Richarlison,Everton,157049
+9,Goal,Normal Goal,R. Saïss,Wolves,157049
+12,Goal,Normal Goal,A. Iwobi,Everton,157049
+75,Goal,Normal Goal,R. Jiménez,Wolves,157049
+80,Goal,Normal Goal,Richarlison,Everton,157049
+10,Goal,Normal Goal,C. Eriksen,Tottenham,157045
+40,Goal,Penalty,H. Kane,Tottenham,157045
+45,Goal,Normal Goal,A. Lacazette,Arsenal,157045
+71,Goal,Normal Goal,P. Aubameyang,Arsenal,157045
+7,Goal,Normal Goal,J. Willems,Newcastle,157058
+28,Goal,Normal Goal,S. Mané,Liverpool,157058
+40,Goal,Normal Goal,S. Mané,Liverpool,157058
+72,Goal,Normal Goal,Mohamed Salah,Liverpool,157058
+51,Goal,Normal Goal,N. Maupay,Brighton,157057
+90,Goal,Normal Goal,J. Hendrick,Burnley,157057
+8,Goal,Penalty,M. Rashford,Manchester United,157059
+66,Goal,Normal Goal,M. Djenepo,Southampton,157061
+10,Goal,Normal Goal,Son Heung-Min,Tottenham,157062
+21,Goal,Own Goal,P. van Aanholt,Tottenham,157062
+23,Goal,Normal Goal,Son Heung-Min,Tottenham,157062
+42,Goal,Normal Goal,E. Lamela,Tottenham,157062
+31,Goal,Normal Goal,F. Tomori,Chelsea,157064
+34,Goal,Normal Goal,T. Abraham,Chelsea,157064
+41,Goal,Normal Goal,T. Abraham,Chelsea,157064
+55,Goal,Normal Goal,T. Abraham,Chelsea,157064
+69,Goal,Own Goal,T. Abraham,Wolves,157064
+85,Goal,Normal Goal,P. Cutrone,Wolves,157064
+90,Goal,Normal Goal,M. Mount,Chelsea,157064
+18,Goal,Normal Goal,K. McLean,Norwich,157060
+28,Goal,Normal Goal,T. Cantwell,Norwich,157060
+45,Goal,Normal Goal,S. Agüero,Manchester City,157060
+50,Goal,Normal Goal,T. Pukki,Norwich,157060
+88,Goal,Normal Goal,Rodri,Manchester City,157060
+23,Goal,Normal Goal,C. Wilson,Bournemouth,157055
+44,Goal,Normal Goal,D. Calvert-Lewin,Everton,157055
+67,Goal,Normal Goal,R. Fraser,Bournemouth,157055
+72,Goal,Normal Goal,C. Wilson,Bournemouth,157055
+21,Goal,Normal Goal,P. Aubameyang,Arsenal,157063
+32,Goal,Normal Goal,P. Aubameyang,Arsenal,157063
+53,Goal,Normal Goal,T. Cleverley,Watford,157063
+81,Goal,Penalty,R. Pereyra,Watford,157063
+10,Goal,Normal Goal,N. Aké,Bournemouth,157073
+35,Goal,Normal Goal,H. Wilson,Bournemouth,157073
+53,Goal,Penalty,J. Ward-Prowse,Southampton,157073
+90,Goal,Normal Goal,C. Wilson,Bournemouth,157073
+29,Goal,Normal Goal,H. Kane,Tottenham,157070
+69,Goal,Normal Goal,Ricardo Pereira,Leicester,157070
+85,Goal,Normal Goal,J. Maddison,Leicester,157070
+10,Goal,Normal Goal,C. Wood,Burnley,157066
+14,Goal,Normal Goal,C. Wood,Burnley,157066
+40,Goal,Own Goal,Y. Mina,Sheffield Utd,157069
+79,Goal,Normal Goal,L. Mousset,Sheffield Utd,157069
+1,Goal,Normal Goal,David Silva,Manchester City,157071
+7,Goal,Penalty,S. Agüero,Manchester City,157071
+12,Goal,Normal Goal,R. Mahrez,Manchester City,157071
+15,Goal,Normal Goal,Bernardo Silva,Manchester City,157071
+18,Goal,Normal Goal,N. Otamendi,Manchester City,157071
+48,Goal,Normal Goal,Bernardo Silva,Manchester City,157071
+60,Goal,Normal Goal,Bernardo Silva,Manchester City,157071
+85,Goal,Normal Goal,K. De Bruyne,Manchester City,157071
+46,Goal,Own Goal,L. Dendoncker,Crystal Palace,157068
+90,Goal,Normal Goal,Diogo Jota,Wolves,157068
+44,Goal,Normal Goal,A. Yarmolenko,West Ham,157074
+84,Goal,Normal Goal,A. Cresswell,West Ham,157074
+20,Goal,Normal Goal,J.  McGinn,Aston Villa,157065
+59,Goal,Penalty,N. Pépé,Arsenal,157065
+60,Goal,Normal Goal,Wesley,Aston Villa,157065
+81,Goal,Normal Goal,C. Chambers,Arsenal,157065
+84,Goal,Normal Goal,P. Aubameyang,Arsenal,157065
+14,Goal,Normal Goal,T. Alexander-Arnold,Liverpool,157067
+30,Goal,Normal Goal,Roberto Firmino,Liverpool,157067
+71,Goal,Normal Goal,N. Kanté,Chelsea,157067
+70,Goal,Normal Goal,G. Wijnaldum,Liverpool,157082
+10,Goal,Normal Goal,A. Yarmolenko,West Ham,157075
+17,Goal,Normal Goal,J. King,Bournemouth,157075
+46,Goal,Normal Goal,C. Wilson,Bournemouth,157075
+74,Goal,Normal Goal,A. Cresswell,West Ham,157075
+33,Goal,Normal Goal,A. El Ghazi,Aston Villa,157076
+68,Goal,Normal Goal,J. Rodriguez,Burnley,157076
+79,Goal,Normal Goal,J.  McGinn,Aston Villa,157076
+81,Goal,Normal Goal,C. Wood,Burnley,157076
+50,Goal,Penalty,Jorginho,Chelsea,157077
+76,Goal,Normal Goal,Willian,Chelsea,157077
+21,Goal,Penalty,L. Milivojević,Crystal Palace,157078
+90,Goal,Normal Goal,A. Townsend,Crystal Palace,157078
+24,Goal,Normal Goal,T. Ndombèlé,Tottenham,157083
+39,Goal,Normal Goal,D. Ings,Southampton,157083
+43,Goal,Normal Goal,H. Kane,Tottenham,157083
+18,Goal,Normal Goal,M. Doherty,Wolves,157084
+61,Goal,Own Goal,D. Janmaat,Wolves,157084
+24,Goal,Normal Goal,Gabriel Jesus,Manchester City,157079
+33,Goal,Normal Goal,D. Calvert-Lewin,Everton,157079
+71,Goal,Normal Goal,R. Mahrez,Manchester City,157079
+84,Goal,Normal Goal,R. Sterling,Manchester City,157079
+16,Goal,Normal Goal,Ricardo Pereira,Leicester,157080
+54,Goal,Normal Goal,J. Vardy,Leicester,157080
+57,Goal,Own Goal,P. Dummett,Leicester,157080
+64,Goal,Normal Goal,J. Vardy,Leicester,157080
+90,Goal,Normal Goal,W. Ndidi,Leicester,157080
+45,Goal,Normal Goal,S. McTominay,Manchester United,157081
+58,Goal,Normal Goal,P. Aubameyang,Arsenal,157081
+3,Goal,Normal Goal,N. Maupay,Brighton,157086
+32,Goal,Normal Goal,A. Connolly,Brighton,157086
+65,Goal,Normal Goal,A. Connolly,Brighton,157086
+72,Goal,Normal Goal,J. Hendrick,Burnley,157087
+40,Goal,Normal Goal,S. Mané,Liverpool,157088
+80,Goal,Normal Goal,J. Maddison,Leicester,157088
+90,Goal,Penalty,J. Milner,Liverpool,157088
+14,Goal,Normal Goal,Wesley,Aston Villa,157091
+30,Goal,Normal Goal,Wesley,Aston Villa,157091
+49,Goal,Normal Goal,J. Grealish,Aston Villa,157091
+61,Goal,Normal Goal,C. Hourihane,Aston Villa,157091
+83,Goal,Normal Goal,Douglas Luiz,Aston Villa,157091
+87,Goal,Normal Goal,J. Drmic,Norwich,157091
+54,Goal,Normal Goal,S. Haller,West Ham,157094
+63,Goal,Penalty,P. van Aanholt,Crystal Palace,157094
+87,Goal,Normal Goal,J. Ayew,Crystal Palace,157094
+9,Goal,Normal Goal,David Luiz,Arsenal,157085
+80,Goal,Normal Goal,Adama Traoré,Wolves,157089
+90,Goal,Normal Goal,Adama Traoré,Wolves,157089
+17,Goal,Normal Goal,T. Abraham,Chelsea,157092
+24,Goal,Normal Goal,M. Mount,Chelsea,157092
+30,Goal,Normal Goal,D. Ings,Southampton,157092
+40,Goal,Normal Goal,N. Kanté,Chelsea,157092
+89,Goal,Normal Goal,M. Batshuayi,Chelsea,157092
+72,Goal,Normal Goal,M. Longstaff,Newcastle,157090
+21,Goal,Normal Goal,A. Webster,Brighton,157096
+45,Goal,Normal Goal,J. Grealish,Aston Villa,157096
+90,Goal,Normal Goal,M. Targett,Aston Villa,157096
+73,Goal,Normal Goal,Marcos Alonso,Chelsea,157097
+26,Goal,Normal Goal,C. Wood,Burnley,157100
+45,Goal,Normal Goal,J. Vardy,Leicester,157100
+74,Goal,Normal Goal,Y. Tielemans,Leicester,157100
+6,Goal,Normal Goal,A. Doucouré,Watford,157103
+86,Goal,Normal Goal,D. Alli,Tottenham,157103
+53,Goal,Normal Goal,D. Ings,Southampton,157104
+61,Goal,Penalty,R. Jiménez,Wolves,157104
+39,Goal,Normal Goal,Gabriel Jesus,Manchester City,157098
+41,Goal,Normal Goal,David Silva,Manchester City,157098
+36,Goal,Normal Goal,M. Rashford,Manchester United,157101
+85,Goal,Normal Goal,A. Lallana,Liverpool,157101
+30,Goal,Normal Goal,L. Mousset,Sheffield Utd,157102
+10,Goal,Normal Goal,B. Chilwell,Leicester,157112
+17,Goal,Normal Goal,Y. Tielemans,Leicester,157112
+19,Goal,Normal Goal,Ayoze Pérez,Leicester,157112
+39,Goal,Normal Goal,Ayoze Pérez,Leicester,157112
+45,Goal,Normal Goal,J. Vardy,Leicester,157112
+57,Goal,Normal Goal,Ayoze Pérez,Leicester,157112
+58,Goal,Normal Goal,J. Vardy,Leicester,157112
+85,Goal,Normal Goal,J. Maddison,Leicester,157112
+90,Goal,Penalty,J. Vardy,Leicester,157112
+46,Goal,Normal Goal,R. Sterling,Manchester City,157109
+65,Goal,Normal Goal,David Silva,Manchester City,157109
+70,Goal,Normal Goal,İ. Gündoğan,Manchester City,157109
+15,Goal,Normal Goal,P. Groß,Brighton,157106
+20,Goal,Own Goal,A. Webster,Everton,157106
+74,Goal,Normal Goal,D. Calvert-Lewin,Everton,157106
+80,Goal,Penalty,N. Maupay,Brighton,157106
+90,Goal,Own Goal,L. Digne,Brighton,157106
+44,Goal,Normal Goal,R. Snodgrass,West Ham,157114
+69,Goal,Normal Goal,L. Mousset,Sheffield Utd,157114
+21,Goal,Normal Goal,C. Pulisic,Chelsea,157107
+45,Goal,Normal Goal,C. Pulisic,Chelsea,157107
+56,Goal,Normal Goal,C. Pulisic,Chelsea,157107
+58,Goal,Normal Goal,Willian,Chelsea,157107
+86,Goal,Normal Goal,J. Rodriguez,Burnley,157107
+89,Goal,Normal Goal,D. McNeil,Burnley,157107
+37,Goal,Normal Goal,J. Lascelles,Newcastle,157110
+73,Goal,Normal Goal,Jonny Castro,Wolves,157110
+7,Goal,Normal Goal,S. Papastathopoulos,Arsenal,157105
+9,Goal,Normal Goal,David Luiz,Arsenal,157105
+32,Goal,Penalty,L. Milivojević,Crystal Palace,157105
+52,Goal,Normal Goal,J. Ayew,Crystal Palace,157105
+1,Goal,Normal Goal,H. Kane,Tottenham,157108
+52,Goal,Normal Goal,J. Henderson,Liverpool,157108
+75,Goal,Penalty,Mohamed Salah,Liverpool,157108
+21,Goal,Normal Goal,S. McTominay,Manchester United,157111
+30,Goal,Normal Goal,M. Rashford,Manchester United,157111
+73,Goal,Normal Goal,A. Martial,Manchester United,157111
+88,Goal,Normal Goal,O. Hernández,Norwich,157111
+45,Goal,Normal Goal,J. King,Bournemouth,157115
+21,Goal,Normal Goal,P. Aubameyang,Arsenal,157116
+76,Goal,Normal Goal,R. Jiménez,Wolves,157116
+21,Goal,Normal Goal,Trézéguet,Aston Villa,157117
+87,Goal,Normal Goal,A. Robertson,Liverpool,157117
+90,Goal,Normal Goal,S. Mané,Liverpool,157117
+68,Goal,Normal Goal,L. Trossard,Brighton,157118
+84,Goal,Normal Goal,S. Duffy,Brighton,157118
+13,Goal,Normal Goal,J. Ward-Prowse,Southampton,157121
+70,Goal,Normal Goal,S. Agüero,Manchester City,157121
+86,Goal,Normal Goal,K. Walker,Manchester City,157121
+17,Goal,Normal Goal,J. Lundstram,Sheffield Utd,157122
+43,Goal,Normal Goal,J. Lundstram,Sheffield Utd,157122
+44,Goal,Normal Goal,J. Fleck,Sheffield Utd,157122
+16,Goal,Normal Goal,C. Clark,Newcastle,157124
+22,Goal,Normal Goal,F. Fernández,Newcastle,157124
+51,Goal,Normal Goal,J. Shelvey,Newcastle,157124
+73,Goal,Normal Goal,F. Balbuena,West Ham,157124
+90,Goal,Normal Goal,R. Snodgrass,West Ham,157124
+5,Goal,Normal Goal,T. Abraham,Chelsea,157123
+55,Goal,Normal Goal,C. Pulisic,Chelsea,157123
+80,Goal,Penalty,Deulofeu,Watford,157123
+57,Goal,Normal Goal,Ç. Söyüncü,Leicester,157119
+88,Goal,Normal Goal,J. Vardy,Leicester,157119
+63,Goal,Normal Goal,D. Alli,Tottenham,157120
+90,Goal,Normal Goal,C. Tosun,Everton,157120
+2,Goal,Normal Goal,Deulofeu,Watford,157131
+52,Goal,Normal Goal,A. Gray,Watford,157131
+52,Goal,Normal Goal,T. Abraham,Chelsea,157126
+79,Goal,Normal Goal,C. Pulisic,Chelsea,157126
+11,Goal,Normal Goal,A. Barnes,Burnley,157125
+44,Goal,Normal Goal,C. Wood,Burnley,157125
+54,Goal,Own Goal,Roberto Jiménez,Burnley,157125
+14,Goal,Normal Goal,H. Wilson,Bournemouth,157130
+42,Goal,Normal Goal,D. Yedlin,Newcastle,157130
+52,Goal,Normal Goal,C. Clark,Newcastle,157130
+4,Goal,Normal Goal,T. Davies,Everton,157132
+50,Goal,Normal Goal,D. Ings,Southampton,157132
+75,Goal,Normal Goal,Richarlison,Everton,157132
+58,Goal,Normal Goal,Son Heung-Min,Tottenham,157133
+78,Goal,Normal Goal,G. Baldock,Sheffield Utd,157133
+68,Goal,Normal Goal,J. Vardy,Leicester,157127
+75,Goal,Normal Goal,J. Maddison,Leicester,157127
+17,Goal,Normal Goal,Andreas Pereira,Manchester United,157129
+19,Goal,Normal Goal,S. McTominay,Manchester United,157129
+64,Goal,Normal Goal,L. Dunk,Brighton,157129
+66,Goal,Normal Goal,M. Rashford,Manchester United,157129
+41,Goal,Normal Goal,Rúben Neves,Wolves,157134
+84,Goal,Normal Goal,R. Jiménez,Wolves,157134
+90,Goal,Normal Goal,Trézéguet,Aston Villa,157134
+6,Goal,Normal Goal,Fabinho,Liverpool,157128
+13,Goal,Normal Goal,Mohamed Salah,Liverpool,157128
+51,Goal,Normal Goal,S. Mané,Liverpool,157128
+78,Goal,Normal Goal,Bernardo Silva,Manchester City,157128
+36,Goal,Normal Goal,Son Heung-Min,Tottenham,157144
+43,Goal,Normal Goal,Lucas Moura,Tottenham,157144
+49,Goal,Normal Goal,H. Kane,Tottenham,157144
+73,Goal,Normal Goal,M. Antonio,West Ham,157144
+90,Goal,Normal Goal,A. Ogbonna,West Ham,157144
+21,Goal,Normal Goal,João Moutinho,Wolves,157135
+31,Goal,Normal Goal,R. Jiménez,Wolves,157135
+59,Goal,Normal Goal,S. Cook,Bournemouth,157135
+8,Goal,Normal Goal,D. Ings,Southampton,157136
+18,Goal,Normal Goal,A. Lacazette,Arsenal,157136
+71,Goal,Normal Goal,J. Ward-Prowse,Southampton,157136
+90,Goal,Normal Goal,A. Lacazette,Arsenal,157136
+64,Goal,Normal Goal,Ayoze Pérez,Leicester,157138
+82,Goal,Penalty,J. Vardy,Leicester,157138
+49,Goal,Normal Goal,S. Mané,Liverpool,157139
+82,Goal,Normal Goal,W. Zaha,Crystal Palace,157139
+85,Goal,Normal Goal,Roberto Firmino,Liverpool,157139
+54,Goal,Normal Goal,T. Cantwell,Norwich,157140
+90,Goal,Normal Goal,D. Srbeny,Norwich,157140
+53,Goal,Normal Goal,C. Wood,Burnley,157143
+82,Goal,Penalty,A. Barnes,Burnley,157143
+88,Goal,Normal Goal,J. Tarkowski,Burnley,157143
+21,Goal,Normal Goal,N. Kanté,Chelsea,157141
+29,Goal,Normal Goal,K. De Bruyne,Manchester City,157141
+37,Goal,Normal Goal,R. Mahrez,Manchester City,157141
+19,Goal,Normal Goal,J. Fleck,Sheffield Utd,157142
+52,Goal,Normal Goal,L. Mousset,Sheffield Utd,157142
+72,Goal,Normal Goal,B. Williams,Manchester United,157142
+77,Goal,Normal Goal,M. Greenwood,Manchester United,157142
+79,Goal,Normal Goal,M. Rashford,Manchester United,157142
+90,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157142
+32,Goal,Normal Goal,C. Hourihane,Aston Villa,157137
+36,Goal,Normal Goal,A. El Ghazi,Aston Villa,157137
+22,Goal,Normal Goal,R. Sterling,Manchester City,157150
+25,Goal,Normal Goal,J. Willems,Newcastle,157150
+82,Goal,Normal Goal,K. De Bruyne,Manchester City,157150
+88,Goal,Normal Goal,J. Shelvey,Newcastle,157150
+45,Goal,Normal Goal,W. Zaha,Crystal Palace,157145
+78,Goal,Normal Goal,J. Schlupp,Crystal Palace,157145
+48,Goal,Normal Goal,A. Cresswell,West Ham,157146
+18,Goal,Normal Goal,V. van Dijk,Liverpool,157148
+24,Goal,Normal Goal,V. van Dijk,Liverpool,157148
+79,Goal,Normal Goal,L. Dunk,Brighton,157148
+21,Goal,Normal Goal,D. Alli,Tottenham,157153
+50,Goal,Normal Goal,D. Alli,Tottenham,157153
+69,Goal,Normal Goal,M. Sissoko,Tottenham,157153
+73,Goal,Normal Goal,H. Wilson,Bournemouth,157153
+90,Goal,Normal Goal,H. Wilson,Bournemouth,157153
+24,Goal,Normal Goal,I. Sarr,Watford,157152
+78,Goal,Normal Goal,D. Ings,Southampton,157152
+83,Goal,Normal Goal,J. Ward-Prowse,Southampton,157152
+21,Goal,Normal Goal,T. Pukki,Norwich,157151
+29,Goal,Penalty,P. Aubameyang,Arsenal,157151
+45,Goal,Normal Goal,T. Cantwell,Norwich,157151
+57,Goal,Normal Goal,P. Aubameyang,Arsenal,157151
+2,Goal,Normal Goal,L. Mousset,Sheffield Utd,157154
+64,Goal,Normal Goal,M. Doherty,Wolves,157154
+23,Goal,Normal Goal,Richarlison,Everton,157147
+68,Goal,Normal Goal,J. Vardy,Leicester,157147
+90,Goal,Normal Goal,K. Iheanacho,Leicester,157147
+11,Goal,Normal Goal,J. Grealish,Aston Villa,157149
+42,Goal,Own Goal,T. Heaton,Manchester United,157149
+64,Goal,Normal Goal,V. Lindelöf,Manchester United,157149
+66,Goal,Normal Goal,T. Mings,Aston Villa,157149
+76,Goal,Normal Goal,J. Schlupp,Crystal Palace,157163
+24,Goal,Normal Goal,Gabriel Jesus,Manchester City,157156
+50,Goal,Normal Goal,Gabriel Jesus,Manchester City,157156
+68,Goal,Normal Goal,Rodri,Manchester City,157156
+87,Goal,Normal Goal,R. Mahrez,Manchester City,157156
+89,Goal,Normal Goal,R. Brady,Burnley,157156
+55,Goal,Penalty,J. Vardy,Leicester,157157
+90,Goal,Normal Goal,J. Maddison,Leicester,157157
+23,Goal,Normal Goal,L. Dendoncker,Wolves,157159
+86,Goal,Normal Goal,P. Cutrone,Wolves,157159
+6,Goal,Normal Goal,M. Rashford,Manchester United,157160
+39,Goal,Normal Goal,D. Alli,Tottenham,157160
+49,Goal,Penalty,M. Rashford,Manchester United,157160
+24,Goal,Normal Goal,T. Abraham,Chelsea,157161
+41,Goal,Normal Goal,Trézéguet,Aston Villa,157161
+48,Goal,Normal Goal,M. Mount,Chelsea,157161
+22,Goal,Normal Goal,D. Ings,Southampton,157162
+43,Goal,Normal Goal,R. Bertrand,Southampton,157162
+65,Goal,Normal Goal,T. Pukki,Norwich,157162
+6,Goal,Normal Goal,D. Origi,Liverpool,157164
+17,Goal,Normal Goal,X. Shaqiri,Liverpool,157164
+21,Goal,Normal Goal,M. Keane,Everton,157164
+31,Goal,Normal Goal,D. Origi,Liverpool,157164
+45,Goal,Normal Goal,S. Mané,Liverpool,157164
+45,Goal,Normal Goal,Richarlison,Everton,157164
+90,Goal,Normal Goal,G. Wijnaldum,Liverpool,157164
+15,Goal,Normal Goal,A. Saint-Maximin,Newcastle,157158
+70,Goal,Normal Goal,J. Shelvey,Newcastle,157158
+36,Goal,Normal Goal,A. Webster,Brighton,157155
+50,Goal,Normal Goal,A. Lacazette,Arsenal,157155
+80,Goal,Normal Goal,N. Maupay,Brighton,157155
+5,Goal,Normal Goal,Richarlison,Everton,157168
+49,Goal,Normal Goal,D. Calvert-Lewin,Everton,157168
+52,Goal,Normal Goal,M. Kovačić,Chelsea,157168
+84,Goal,Normal Goal,D. Calvert-Lewin,Everton,157168
+35,Goal,Normal Goal,A. Oxlade-Chamberlain,Liverpool,157165
+44,Goal,Normal Goal,N. Keïta,Liverpool,157165
+54,Goal,Normal Goal,Mohamed Salah,Liverpool,157165
+5,Goal,Normal Goal,H. Kane,Tottenham,157172
+9,Goal,Normal Goal,Lucas Moura,Tottenham,157172
+32,Goal,Normal Goal,Son Heung-Min,Tottenham,157172
+54,Goal,Normal Goal,H. Kane,Tottenham,157172
+74,Goal,Normal Goal,M. Sissoko,Tottenham,157172
+23,Goal,Penalty,M. Rashford,Manchester United,157169
+29,Goal,Normal Goal,A. Martial,Manchester United,157169
+85,Goal,Normal Goal,N. Otamendi,Manchester City,157169
+20,Goal,Normal Goal,J. Vardy,Leicester,157166
+41,Goal,Normal Goal,K. Iheanacho,Leicester,157166
+45,Goal,Normal Goal,J. Grealish,Aston Villa,157166
+49,Goal,Normal Goal,J. Evans,Leicester,157166
+75,Goal,Normal Goal,J. Vardy,Leicester,157166
+52,Goal,Normal Goal,D. Ings,Southampton,157170
+68,Goal,Normal Goal,J. Shelvey,Newcastle,157170
+87,Goal,Normal Goal,F. Fernández,Newcastle,157170
+27,Goal,Normal Goal,A. Tettey,Norwich,157171
+49,Goal,Normal Goal,E. Stevens,Sheffield Utd,157171
+52,Goal,Normal Goal,G. Baldock,Sheffield Utd,157171
+28,Goal,Normal Goal,Diogo Jota,Wolves,157167
+34,Goal,Normal Goal,N. Maupay,Brighton,157167
+36,Goal,Normal Goal,D. Pröpper,Brighton,157167
+44,Goal,Normal Goal,Diogo Jota,Wolves,157167
+38,Goal,Normal Goal,A. Ogbonna,West Ham,157174
+60,Goal,Normal Goal,Martinelli,Arsenal,157174
+66,Goal,Normal Goal,N. Pépé,Arsenal,157174
+69,Goal,Normal Goal,P. Aubameyang,Arsenal,157174
+58,Goal,Normal Goal,C. Wood,Burnley,157176
+84,Goal,Normal Goal,D. Gosling,Bournemouth,157177
+26,Goal,Normal Goal,T. Pukki,Norwich,157179
+38,Goal,Own Goal,T. Krul,Leicester,157179
+50,Goal,Normal Goal,J. Fleck,Sheffield Utd,157182
+73,Goal,Normal Goal,J. Fleck,Sheffield Utd,157182
+37,Goal,Normal Goal,S. Haller,West Ham,157183
+36,Goal,Own Goal,V. Lindelöf,Everton,157181
+77,Goal,Normal Goal,M. Greenwood,Manchester United,157181
+8,Goal,Normal Goal,Lucas Moura,Tottenham,157184
+67,Goal,Normal Goal,Adama Traoré,Wolves,157184
+90,Goal,Normal Goal,J. Vertonghen,Tottenham,157184
+2,Goal,Normal Goal,K. De Bruyne,Manchester City,157175
+15,Goal,Normal Goal,R. Sterling,Manchester City,157175
+40,Goal,Normal Goal,K. De Bruyne,Manchester City,157175
+54,Goal,Normal Goal,N. Maupay,Brighton,157178
+76,Goal,Normal Goal,W. Zaha,Crystal Palace,157178
+89,Goal,Normal Goal,J. Rodriguez,Burnley,157185
+21,Goal,Normal Goal,D. Ings,Southampton,157186
+31,Goal,Normal Goal,J. Stephens,Southampton,157186
+51,Goal,Normal Goal,D. Ings,Southampton,157186
+75,Goal,Normal Goal,J. Grealish,Aston Villa,157186
+23,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157187
+83,Goal,Normal Goal,M. Almirón,Newcastle,157190
+17,Goal,Normal Goal,T. Cantwell,Norwich,157191
+60,Goal,Normal Goal,R. Saïss,Wolves,157191
+81,Goal,Normal Goal,R. Jiménez,Wolves,157191
+22,Goal,Normal Goal,J. Vardy,Leicester,157189
+30,Goal,Normal Goal,R. Mahrez,Manchester City,157189
+43,Goal,Penalty,İ. Gündoğan,Manchester City,157189
+69,Goal,Normal Goal,Gabriel Jesus,Manchester City,157189
+50,Goal,Normal Goal,I. Sarr,Watford,157193
+54,Goal,Penalty,T. Deeney,Watford,157193
+12,Goal,Normal Goal,Willian,Chelsea,157192
+45,Goal,Penalty,Willian,Chelsea,157192
+37,Goal,Normal Goal,A. Webster,Brighton,157203
+53,Goal,Normal Goal,H. Kane,Tottenham,157203
+72,Goal,Normal Goal,D. Alli,Tottenham,157203
+35,Goal,Normal Goal,D. Gosling,Bournemouth,157195
+63,Goal,Normal Goal,P. Aubameyang,Arsenal,157195
+64,Goal,Normal Goal,C. Hourihane,Aston Villa,157196
+31,Goal,Normal Goal,M. Obafemi,Southampton,157197
+73,Goal,Normal Goal,N. Redmond,Southampton,157197
+57,Goal,Normal Goal,R. Snodgrass,West Ham,157198
+68,Goal,Normal Goal,C. Kouyaté,Crystal Palace,157198
+90,Goal,Normal Goal,J. Ayew,Crystal Palace,157198
+80,Goal,Normal Goal,D. Calvert-Lewin,Everton,157199
+27,Goal,Normal Goal,Deulofeu,Watford,157202
+36,Goal,Penalty,O. Norwood,Sheffield Utd,157202
+17,Goal,Normal Goal,M. Longstaff,Newcastle,157201
+24,Goal,Normal Goal,A. Martial,Manchester United,157201
+36,Goal,Normal Goal,M. Greenwood,Manchester United,157201
+41,Goal,Normal Goal,M. Rashford,Manchester United,157201
+51,Goal,Normal Goal,A. Martial,Manchester United,157201
+31,Goal,Normal Goal,Roberto Firmino,Liverpool,157200
+71,Goal,Penalty,J. Milner,Liverpool,157200
+74,Goal,Normal Goal,Roberto Firmino,Liverpool,157200
+78,Goal,Normal Goal,T. Alexander-Arnold,Liverpool,157200
+25,Goal,Normal Goal,R. Sterling,Manchester City,157204
+50,Goal,Normal Goal,R. Sterling,Manchester City,157204
+55,Goal,Normal Goal,Adama Traoré,Wolves,157204
+82,Goal,Normal Goal,R. Jiménez,Wolves,157204
+89,Goal,Normal Goal,M. Doherty,Wolves,157204
+3,Goal,Normal Goal,A. Jahanbakhsh,Brighton,157206
+79,Goal,Normal Goal,A. Mooy,Brighton,157206
+13,Goal,Normal Goal,D. Calvert-Lewin,Everton,157210
+56,Goal,Normal Goal,F. Schär,Newcastle,157210
+64,Goal,Normal Goal,D. Calvert-Lewin,Everton,157210
+50,Goal,Normal Goal,J. Tomkins,Crystal Palace,157212
+74,Goal,Normal Goal,D. Ings,Southampton,157212
+42,Goal,Normal Goal,T. Deeney,Watford,157213
+67,Goal,Penalty,T. Deeney,Watford,157213
+71,Goal,Normal Goal,I. Sarr,Watford,157213
+18,Goal,Normal Goal,M. Vrančić,Norwich,157211
+55,Goal,Normal Goal,C. Eriksen,Tottenham,157211
+61,Goal,Own Goal,S. Aurier,Norwich,157211
+83,Goal,Penalty,H. Kane,Tottenham,157211
+40,Goal,Normal Goal,K. Iheanacho,Leicester,157214
+45,Goal,Normal Goal,Pablo Fornals,West Ham,157214
+56,Goal,Normal Goal,D. Gray,Leicester,157214
+44,Goal,Normal Goal,A. Martial,Manchester United,157207
+90,Goal,Normal Goal,M. Rashford,Manchester United,157207
+13,Goal,Normal Goal,P. Aubameyang,Arsenal,157205
+83,Goal,Normal Goal,Jorginho,Chelsea,157205
+87,Goal,Normal Goal,T. Abraham,Chelsea,157205
+42,Goal,Normal Goal,S. Mané,Liverpool,157208
+52,Goal,Normal Goal,S. Agüero,Manchester City,157209
+82,Goal,Normal Goal,K. De Bruyne,Manchester City,157209
+10,Goal,Normal Goal,Azpilicueta,Chelsea,157216
+84,Goal,Normal Goal,A. Jahanbakhsh,Brighton,157216
+27,Goal,Normal Goal,Wesley,Aston Villa,157217
+41,Goal,Normal Goal,J. Grealish,Aston Villa,157217
+80,Goal,Normal Goal,C. Wood,Burnley,157217
+36,Goal,Normal Goal,Ayoze Pérez,Leicester,157220
+39,Goal,Normal Goal,J. Maddison,Leicester,157220
+87,Goal,Normal Goal,H. Choudhury,Leicester,157220
+17,Goal,Normal Goal,D. Ings,Southampton,157222
+30,Goal,Normal Goal,Deulofeu,Watford,157223
+49,Goal,Normal Goal,A. Doucouré,Watford,157223
+60,Goal,Normal Goal,Pedro Neto,Wolves,157223
+51,Goal,Normal Goal,Gabriel Jesus,Manchester City,157219
+58,Goal,Normal Goal,Gabriel Jesus,Manchester City,157219
+71,Goal,Normal Goal,Richarlison,Everton,157219
+4,Goal,Normal Goal,T. Cantwell,Norwich,157221
+85,Goal,Normal Goal,C. Wickham,Crystal Palace,157221
+17,Goal,Normal Goal,M. Noble,West Ham,157224
+25,Goal,Normal Goal,S. Haller,West Ham,157224
+35,Goal,Penalty,M. Noble,West Ham,157224
+66,Goal,Normal Goal,Felipe Anderson,West Ham,157224
+8,Goal,Normal Goal,N. Pépé,Arsenal,157215
+42,Goal,Normal Goal,S. Papastathopoulos,Arsenal,157215
+4,Goal,Normal Goal,Mohamed Salah,Liverpool,157218
+64,Goal,Normal Goal,S. Mané,Liverpool,157218
+53,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157232
+12,Goal,Normal Goal,P. Aubameyang,Arsenal,157228
+54,Goal,Normal Goal,J. Ayew,Crystal Palace,157228
+27,Goal,Penalty,Jorginho,Chelsea,157227
+38,Goal,Normal Goal,T. Abraham,Chelsea,157227
+49,Goal,Normal Goal,C. Hudson-Odoi,Chelsea,157227
+38,Goal,Normal Goal,Richarlison,Everton,157229
+14,Goal,Normal Goal,D. Praet,Leicester,157230
+19,Goal,Normal Goal,S. Armstrong,Southampton,157230
+81,Goal,Normal Goal,D. Ings,Southampton,157230
+27,Goal,Normal Goal,M. Rashford,Manchester United,157231
+52,Goal,Penalty,M. Rashford,Manchester United,157231
+54,Goal,Normal Goal,A. Martial,Manchester United,157231
+76,Goal,Normal Goal,M. Greenwood,Manchester United,157231
+7,Goal,Normal Goal,M. Almirón,Newcastle,157234
+14,Goal,Normal Goal,L. Dendoncker,Wolves,157234
+37,Goal,Normal Goal,Roberto Firmino,Liverpool,157233
+42,Goal,Normal Goal,A. Doucouré,Watford,157225
+65,Goal,Normal Goal,T. Deeney,Watford,157225
+90,Goal,Normal Goal,R. Pereyra,Watford,157225
+18,Goal,Normal Goal,R. Mahrez,Manchester City,157226
+24,Goal,Normal Goal,R. Mahrez,Manchester City,157226
+28,Goal,Normal Goal,S. Agüero,Manchester City,157226
+45,Goal,Normal Goal,Gabriel Jesus,Manchester City,157226
+57,Goal,Normal Goal,S. Agüero,Manchester City,157226
+81,Goal,Normal Goal,S. Agüero,Manchester City,157226
+90,Goal,Penalty,A. El Ghazi,Aston Villa,157226
+45,Goal,Normal Goal,Martinelli,Arsenal,157235
+83,Goal,Normal Goal,J. Fleck,Sheffield Utd,157235
+38,Goal,Normal Goal,L. Trossard,Brighton,157236
+75,Goal,Normal Goal,J. Grealish,Aston Villa,157236
+39,Goal,Normal Goal,C. Tosun,Crystal Palace,157239
+82,Goal,Normal Goal,S. Agüero,Manchester City,157239
+87,Goal,Normal Goal,S. Agüero,Manchester City,157239
+90,Goal,Own Goal,Fernandinho,Crystal Palace,157239
+33,Goal,Penalty,T. Pukki,Norwich,157241
+15,Goal,Normal Goal,J. Bednarek,Southampton,157242
+35,Goal,Normal Goal,S. Long,Southampton,157242
+53,Goal,Normal Goal,Pedro Neto,Wolves,157242
+65,Goal,Penalty,R. Jiménez,Wolves,157242
+76,Goal,Normal Goal,R. Jiménez,Wolves,157242
+40,Goal,Normal Goal,I. Diop,West Ham,157244
+44,Goal,Normal Goal,D. Calvert-Lewin,Everton,157244
+90,Goal,Normal Goal,I. Hayden,Newcastle,157240
+33,Goal,Normal Goal,H. Barnes,Leicester,157237
+56,Goal,Normal Goal,C. Wood,Burnley,157237
+79,Goal,Normal Goal,A. Westwood,Burnley,157237
+14,Goal,Normal Goal,V. van Dijk,Liverpool,157238
+90,Goal,Normal Goal,Mohamed Salah,Liverpool,157238
+36,Goal,Normal Goal,H. Wilson,Bournemouth,157245
+41,Goal,Own Goal,P. Groß,Bournemouth,157245
+74,Goal,Normal Goal,C. Wilson,Bournemouth,157245
+81,Goal,Normal Goal,A. Mooy,Brighton,157245
+38,Goal,Normal Goal,T. Deeney,Watford,157246
+68,Goal,Normal Goal,Douglas Luiz,Aston Villa,157246
+90,Goal,Normal Goal,T. Mings,Aston Villa,157246
+30,Goal,Normal Goal,M. Kean,Everton,157247
+54,Goal,Normal Goal,D. Calvert-Lewin,Everton,157247
+90,Goal,Normal Goal,F. Lejeune,Newcastle,157247
+90,Goal,Normal Goal,F. Lejeune,Newcastle,157247
+73,Goal,Normal Goal,S. Agüero,Manchester City,157249
+22,Goal,Normal Goal,N. Redmond,Southampton,157254
+48,Goal,Normal Goal,S. Armstrong,Southampton,157254
+28,Goal,Penalty,Jorginho,Chelsea,157252
+63,Goal,Normal Goal,Martinelli,Arsenal,157252
+84,Goal,Normal Goal,Azpilicueta,Chelsea,157252
+87,Goal,Normal Goal,Bellerín,Arsenal,157252
+24,Goal,Normal Goal,H. Barnes,Leicester,157248
+45,Goal,Normal Goal,Ricardo Pereira,Leicester,157248
+50,Goal,Penalty,M. Noble,West Ham,157248
+81,Goal,Penalty,Ayoze Pérez,Leicester,157248
+88,Goal,Normal Goal,Ayoze Pérez,Leicester,157248
+38,Goal,Normal Goal,D. Alli,Tottenham,157253
+70,Goal,Penalty,T. Pukki,Norwich,157253
+79,Goal,Normal Goal,Son Heung-Min,Tottenham,157253
+39,Goal,Normal Goal,C. Wood,Burnley,157251
+56,Goal,Normal Goal,J. Rodriguez,Burnley,157251
+8,Goal,Normal Goal,J. Henderson,Liverpool,157250
+51,Goal,Normal Goal,R. Jiménez,Wolves,157250
+84,Goal,Normal Goal,Roberto Firmino,Liverpool,157250
+35,Goal,Penalty,Mohamed Salah,Liverpool,157194
+52,Goal,Normal Goal,A. Oxlade-Chamberlain,Liverpool,157194
+37,Goal,Normal Goal,P. Billing,Bournemouth,157255
+44,Goal,Normal Goal,N. Aké,Bournemouth,157255
+70,Goal,Normal Goal,M. Samatta,Aston Villa,157255
+58,Goal,Own Goal,Guaita,Sheffield Utd,157257
+47,Goal,Normal Goal,A. Oxlade-Chamberlain,Liverpool,157259
+60,Goal,Normal Goal,J. Henderson,Liverpool,157259
+71,Goal,Normal Goal,Mohamed Salah,Liverpool,157259
+90,Goal,Normal Goal,Mohamed Salah,Liverpool,157259
+10,Goal,Normal Goal,A. Masina,Watford,157263
+42,Goal,Normal Goal,R. Pereyra,Watford,157263
+45,Goal,Normal Goal,Y. Mina,Everton,157263
+45,Goal,Normal Goal,Y. Mina,Everton,157263
+90,Goal,Normal Goal,T. Walcott,Everton,157263
+30,Goal,Normal Goal,I. Diop,West Ham,157264
+45,Goal,Normal Goal,R. Snodgrass,West Ham,157264
+47,Goal,Own Goal,A. Ogbonna,Brighton,157264
+57,Goal,Normal Goal,R. Snodgrass,West Ham,157264
+75,Goal,Normal Goal,P. Groß,Brighton,157264
+79,Goal,Normal Goal,G. Murray,Brighton,157264
+63,Goal,Normal Goal,S. Bergwijn,Tottenham,157262
+71,Goal,Normal Goal,Son Heung-Min,Tottenham,157262
+18,Goal,Normal Goal,Bernard,Everton,157269
+51,Goal,Normal Goal,C. Benteke,Crystal Palace,157269
+58,Goal,Normal Goal,Richarlison,Everton,157269
+88,Goal,Normal Goal,D. Calvert-Lewin,Everton,157269
+19,Goal,Normal Goal,A. Doucouré,Watford,157267
+78,Goal,Own Goal,A. Mariappa,Brighton,157267
+13,Goal,Normal Goal,C. Wilson,Bournemouth,157272
+45,Goal,Normal Goal,B. Sharp,Sheffield Utd,157272
+84,Goal,Normal Goal,J. Lundstram,Sheffield Utd,157272
+2,Goal,Normal Goal,A. Westwood,Burnley,157273
+18,Goal,Normal Goal,D. Ings,Southampton,157273
+60,Goal,Normal Goal,M. Vydra,Burnley,157273
+78,Goal,Normal Goal,S. Mané,Liverpool,157271
+9,Goal,Own Goal,T. Alderweireld,Aston Villa,157266
+27,Goal,Normal Goal,T. Alderweireld,Tottenham,157266
+45,Goal,Normal Goal,Son Heung-Min,Tottenham,157266
+53,Goal,Normal Goal,B. Engels,Aston Villa,157266
+90,Goal,Normal Goal,Son Heung-Min,Tottenham,157266
+54,Goal,Normal Goal,P. Aubameyang,Arsenal,157265
+57,Goal,Normal Goal,N. Pépé,Arsenal,157265
+90,Goal,Normal Goal,M. Özil,Arsenal,157265
+90,Goal,Normal Goal,A. Lacazette,Arsenal,157265
+45,Goal,Normal Goal,A. Martial,Manchester United,157268
+66,Goal,Normal Goal,H. Maguire,Manchester United,157268
+30,Goal,Normal Goal,Rodri,Manchester City,157270
+62,Goal,Normal Goal,K. De Bruyne,Manchester City,157270
+15,Goal,Normal Goal,O. Giroud,Chelsea,157277
+48,Goal,Normal Goal,Marcos Alonso,Chelsea,157277
+89,Goal,Own Goal,A. Rüdiger,Tottenham,157277
+53,Goal,Normal Goal,M. Vydra,Burnley,157276
+61,Goal,Penalty,J. Rodriguez,Burnley,157276
+87,Goal,Normal Goal,D. McNeil,Burnley,157276
+44,Goal,Normal Goal,P. van Aanholt,Crystal Palace,157278
+26,Goal,Normal Goal,E. Stevens,Sheffield Utd,157282
+30,Goal,Normal Goal,N. Maupay,Brighton,157282
+8,Goal,Normal Goal,S. Long,Southampton,157283
+90,Goal,Normal Goal,S. Armstrong,Southampton,157283
+80,Goal,Normal Goal,Gabriel Jesus,Manchester City,157279
+42,Goal,Penalty,Bruno Fernandes,Manchester United,157281
+58,Goal,Normal Goal,A. Martial,Manchester United,157281
+75,Goal,Normal Goal,M. Greenwood,Manchester United,157281
+19,Goal,Normal Goal,Diogo Jota,Wolves,157284
+30,Goal,Normal Goal,Diogo Jota,Wolves,157284
+50,Goal,Normal Goal,R. Jiménez,Wolves,157284
+1,Goal,Normal Goal,D. Calvert-Lewin,Everton,157275
+27,Goal,Normal Goal,E. Nketiah,Arsenal,157275
+33,Goal,Normal Goal,P. Aubameyang,Arsenal,157275
+45,Goal,Normal Goal,Richarlison,Everton,157275
+46,Goal,Normal Goal,P. Aubameyang,Arsenal,157275
+9,Goal,Normal Goal,G. Wijnaldum,Liverpool,157280
+12,Goal,Normal Goal,I. Diop,West Ham,157280
+54,Goal,Normal Goal,Pablo Fornals,West Ham,157280
+68,Goal,Normal Goal,Mohamed Salah,Liverpool,157280
+81,Goal,Normal Goal,S. Mané,Liverpool,157280
+70,Goal,Normal Goal,J. Lewis,Norwich,157291
+70,Goal,Normal Goal,J. Ayew,Crystal Palace,157287
+33,Goal,Normal Goal,Marcos Alonso,Chelsea,157285
+54,Goal,Normal Goal,J. Lerma,Bournemouth,157285
+57,Goal,Normal Goal,J. King,Bournemouth,157285
+85,Goal,Normal Goal,Marcos Alonso,Chelsea,157285
+15,Goal,Normal Goal,J. Bowen,West Ham,157294
+31,Goal,Normal Goal,M. Obafemi,Southampton,157294
+40,Goal,Normal Goal,S. Haller,West Ham,157294
+54,Goal,Normal Goal,M. Antonio,West Ham,157294
+54,Goal,Normal Goal,I. Sarr,Watford,157293
+60,Goal,Normal Goal,I. Sarr,Watford,157293
+72,Goal,Normal Goal,T. Deeney,Watford,157293
+3,Goal,Normal Goal,D. Calvert-Lewin,Everton,157288
+31,Goal,Normal Goal,Bruno Fernandes,Manchester United,157288
+13,Goal,Normal Goal,S. Bergwijn,Tottenham,157292
+27,Goal,Normal Goal,M. Doherty,Wolves,157292
+45,Goal,Normal Goal,S. Aurier,Tottenham,157292
+57,Goal,Normal Goal,Diogo Jota,Wolves,157292
+73,Goal,Normal Goal,R. Jiménez,Wolves,157292
+9,Goal,Normal Goal,C. Wilson,Bournemouth,157300
+24,Goal,Normal Goal,Mohamed Salah,Liverpool,157300
+33,Goal,Normal Goal,S. Mané,Liverpool,157300
+78,Goal,Normal Goal,A. Lacazette,Arsenal,157295
+28,Goal,Normal Goal,J. Ayew,Crystal Palace,157298
+36,Goal,Normal Goal,B. Sharp,Sheffield Utd,157302
+79,Goal,Normal Goal,A. Saint-Maximin,Newcastle,157303
+13,Goal,Normal Goal,C. Wood,Burnley,157296
+50,Goal,Penalty,D. Alli,Tottenham,157296
+14,Goal,Normal Goal,M. Mount,Chelsea,157297
+21,Goal,Normal Goal,Pedro,Chelsea,157297
+51,Goal,Normal Goal,Willian,Chelsea,157297
+54,Goal,Normal Goal,O. Giroud,Chelsea,157297
+30,Goal,Normal Goal,A. Martial,Manchester United,157301
+90,Goal,Normal Goal,S. McTominay,Manchester United,157301
+40,Goal,Normal Goal,H. Barnes,Leicester,157299
+63,Goal,Penalty,J. Vardy,Leicester,157299
+79,Goal,Normal Goal,J. Vardy,Leicester,157299
+85,Goal,Normal Goal,H. Barnes,Leicester,157299
+45,Goal,Normal Goal,R. Sterling,Manchester City,157289
+51,Goal,Penalty,K. De Bruyne,Manchester City,157289
+90,Goal,Normal Goal,P. Foden,Manchester City,157289
+49,Goal,Normal Goal,D. Ings,Southampton,157311
+54,Goal,Normal Goal,S. Armstrong,Southampton,157311
+79,Goal,Normal Goal,N. Redmond,Southampton,157311
+27,Goal,Normal Goal,S. Bergwijn,Tottenham,157312
+81,Goal,Penalty,Bruno Fernandes,Manchester United,157312
+90,Goal,Normal Goal,B. Chilwell,Leicester,157313
+90,Goal,Normal Goal,C. Dawson,Watford,157313
+68,Goal,Normal Goal,N. Pépé,Arsenal,157307
+75,Goal,Normal Goal,L. Dunk,Brighton,157307
+90,Goal,Normal Goal,N. Maupay,Brighton,157307
+73,Goal,Normal Goal,R. Jiménez,Wolves,157314
+84,Goal,Normal Goal,Pedro Neto,Wolves,157314
+12,Goal,Normal Goal,L. Milivojević,Crystal Palace,157305
+23,Goal,Normal Goal,J. Ayew,Crystal Palace,157305
+55,Goal,Normal Goal,A. Saint-Maximin,Newcastle,157310
+69,Goal,Normal Goal,M. Ritchie,Newcastle,157310
+78,Goal,Normal Goal,Joelinton,Newcastle,157310
+43,Goal,Normal Goal,K. Hause,Aston Villa,157306
+60,Goal,Normal Goal,C. Pulisic,Chelsea,157306
+62,Goal,Normal Goal,O. Giroud,Chelsea,157306
+22,Goal,Normal Goal,P. Foden,Manchester City,157309
+43,Goal,Normal Goal,R. Mahrez,Manchester City,157309
+45,Goal,Penalty,R. Mahrez,Manchester City,157309
+51,Goal,Normal Goal,David Silva,Manchester City,157309
+63,Goal,Normal Goal,P. Foden,Manchester City,157309
+64,Goal,Own Goal,T. Souček,Tottenham,157323
+82,Goal,Normal Goal,H. Kane,Tottenham,157323
+7,Goal,Normal Goal,A. Martial,Manchester United,157319
+44,Goal,Normal Goal,A. Martial,Manchester United,157319
+74,Goal,Normal Goal,A. Martial,Manchester United,157319
+68,Goal,Normal Goal,D. Gayle,Newcastle,157320
+83,Goal,Normal Goal,Ahmed El Mohamady,Aston Villa,157320
+55,Goal,Normal Goal,M. Keane,Everton,157321
+60,Goal,Normal Goal,R. Jiménez,Wolves,157324
+23,Goal,Normal Goal,T. Alexander-Arnold,Liverpool,157318
+44,Goal,Normal Goal,Mohamed Salah,Liverpool,157318
+55,Goal,Normal Goal,Fabinho,Liverpool,157318
+69,Goal,Normal Goal,S. Mané,Liverpool,157318
+73,Goal,Normal Goal,J. Rodriguez,Burnley,157315
+20,Goal,Normal Goal,E. Nketiah,Arsenal,157322
+86,Goal,Normal Goal,J. Willock,Arsenal,157322
+36,Goal,Normal Goal,C. Pulisic,Chelsea,157316
+55,Goal,Normal Goal,K. De Bruyne,Manchester City,157316
+78,Goal,Penalty,Willian,Chelsea,157316
+62,Goal,Normal Goal,L. Dendoncker,Wolves,157327
+16,Goal,Normal Goal,D. Ings,Southampton,157333
+70,Goal,Normal Goal,D. Ings,Southampton,157333
+79,Goal,Own Goal,J. Bednarek,Watford,157333
+82,Goal,Normal Goal,J. Ward-Prowse,Southampton,157333
+62,Goal,Normal Goal,B. Mee,Burnley,157329
+16,Goal,Normal Goal,M. Greenwood,Manchester United,157328
+29,Goal,Normal Goal,Bruno Fernandes,Manchester United,157328
+50,Goal,Normal Goal,Bruno Fernandes,Manchester United,157328
+5,Goal,Normal Goal,D. Gayle,Newcastle,157325
+30,Goal,Normal Goal,S. Longstaff,Newcastle,157325
+57,Goal,Normal Goal,M. Almirón,Newcastle,157325
+77,Goal,Normal Goal,V. Lazaro,Newcastle,157325
+90,Goal,Normal Goal,D. Gosling,Bournemouth,157325
+33,Goal,Normal Goal,P. Aubameyang,Arsenal,157326
+37,Goal,Normal Goal,G. Xhaka,Arsenal,157326
+67,Goal,Normal Goal,P. Aubameyang,Arsenal,157326
+81,Goal,Normal Goal,Cédric Soares,Arsenal,157326
+10,Goal,Normal Goal,Richarlison,Everton,157330
+16,Goal,Penalty,G. Sigurðsson,Everton,157330
+51,Goal,Normal Goal,K. Iheanacho,Leicester,157330
+42,Goal,Penalty,Willian,Chelsea,157334
+45,Goal,Normal Goal,T. Souček,West Ham,157334
+51,Goal,Normal Goal,M. Antonio,West Ham,157334
+72,Goal,Normal Goal,Willian,Chelsea,157334
+89,Goal,Normal Goal,A. Yarmolenko,West Ham,157334
+31,Goal,Normal Goal,S. Berge,Sheffield Utd,157332
+69,Goal,Normal Goal,L. Mousset,Sheffield Utd,157332
+84,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157332
+90,Goal,Normal Goal,H. Kane,Tottenham,157332
+25,Goal,Penalty,K. De Bruyne,Manchester City,157331
+35,Goal,Normal Goal,R. Sterling,Manchester City,157331
+45,Goal,Normal Goal,P. Foden,Manchester City,157331
+66,Goal,Own Goal,A. Oxlade-Chamberlain,Manchester City,157331
+25,Goal,Normal Goal,L. Trossard,Brighton,157341
+49,Goal,Normal Goal,K. Iheanacho,Leicester,157337
+77,Goal,Normal Goal,J. Vardy,Leicester,157337
+90,Goal,Normal Goal,J. Vardy,Leicester,157337
+15,Goal,Normal Goal,J. Stanislas,Bournemouth,157339
+29,Goal,Normal Goal,M. Greenwood,Manchester United,157339
+35,Goal,Penalty,M. Rashford,Manchester United,157339
+45,Goal,Normal Goal,A. Martial,Manchester United,157339
+49,Goal,Penalty,J. King,Bournemouth,157339
+54,Goal,Normal Goal,M. Greenwood,Manchester United,157339
+59,Goal,Normal Goal,Bruno Fernandes,Manchester United,157339
+43,Goal,Normal Goal,B. Saka,Arsenal,157344
+86,Goal,Normal Goal,A. Lacazette,Arsenal,157344
+28,Goal,Normal Goal,O. Giroud,Chelsea,157336
+43,Goal,Penalty,Willian,Chelsea,157336
+90,Goal,Normal Goal,R. Barkley,Chelsea,157336
+43,Goal,Normal Goal,J. Tarkowski,Burnley,157335
+80,Goal,Normal Goal,J. Egan,Sheffield Utd,157335
+4,Goal,Normal Goal,M. Antonio,West Ham,157340
+17,Goal,Normal Goal,M. Almirón,Newcastle,157340
+65,Goal,Normal Goal,T. Souček,West Ham,157340
+67,Goal,Normal Goal,J. Shelvey,Newcastle,157340
+71,Goal,Normal Goal,S. Mané,Liverpool,157338
+89,Goal,Normal Goal,C. Jones,Liverpool,157338
+16,Goal,Normal Goal,C. Adams,Southampton,157342
+24,Goal,Own Goal,M. Keane,Tottenham,157343
+6,Goal,Normal Goal,O. Giroud,Chelsea,157349
+27,Goal,Normal Goal,C. Pulisic,Chelsea,157349
+34,Goal,Normal Goal,W. Zaha,Crystal Palace,157349
+71,Goal,Normal Goal,T. Abraham,Chelsea,157349
+72,Goal,Normal Goal,C. Benteke,Crystal Palace,157349
+4,Goal,Normal Goal,E. Buendía,Norwich,157353
+10,Goal,Normal Goal,C. Dawson,Watford,157353
+55,Goal,Normal Goal,D. Welbeck,Watford,157353
+21,Goal,Normal Goal,P. Aubameyang,Arsenal,157346
+84,Goal,Normal Goal,J. Vardy,Leicester,157346
+10,Goal,Normal Goal,Gabriel Jesus,Manchester City,157351
+21,Goal,Normal Goal,R. Mahrez,Manchester City,157351
+58,Goal,Own Goal,F. Fernández,Manchester City,157351
+65,Goal,Normal Goal,David Silva,Manchester City,157351
+90,Goal,Normal Goal,R. Sterling,Manchester City,157351
+90,Goal,Normal Goal,J. Egan,Sheffield Utd,157352
+38,Goal,Normal Goal,J. Rodriguez,Burnley,157354
+6,Goal,Normal Goal,Mohamed Salah,Liverpool,157348
+8,Goal,Normal Goal,J. Henderson,Liverpool,157348
+45,Goal,Normal Goal,L. Trossard,Brighton,157348
+76,Goal,Normal Goal,Mohamed Salah,Liverpool,157348
+31,Goal,Normal Goal,D. Ings,Southampton,157350
+44,Goal,Normal Goal,Richarlison,Everton,157350
+27,Goal,Penalty,Bruno Fernandes,Manchester United,157347
+45,Goal,Normal Goal,M. Greenwood,Manchester United,157347
+58,Goal,Normal Goal,P. Pogba,Manchester United,157347
+11,Goal,Normal Goal,M. Antonio,West Ham,157360
+45,Goal,Normal Goal,M. Antonio,West Ham,157360
+54,Goal,Normal Goal,M. Antonio,West Ham,157360
+74,Goal,Normal Goal,M. Antonio,West Ham,157360
+23,Goal,Normal Goal,D. Gayle,Newcastle,157363
+52,Goal,Penalty,T. Deeney,Watford,157363
+82,Goal,Penalty,T. Deeney,Watford,157363
+34,Goal,Normal Goal,A. Robertson,Liverpool,157358
+69,Goal,Normal Goal,J. Rodriguez,Burnley,157358
+18,Goal,Normal Goal,D. McGoldrick,Sheffield Utd,157361
+33,Goal,Normal Goal,O. McBurnie,Sheffield Utd,157361
+77,Goal,Normal Goal,D. McGoldrick,Sheffield Utd,157361
+21,Goal,Normal Goal,R. Sterling,Manchester City,157357
+44,Goal,Normal Goal,Gabriel Jesus,Manchester City,157357
+53,Goal,Normal Goal,R. Sterling,Manchester City,157357
+56,Goal,Normal Goal,Bernardo Silva,Manchester City,157357
+81,Goal,Normal Goal,R. Sterling,Manchester City,157357
+45,Goal,Penalty,R. Jiménez,Wolves,157364
+46,Goal,Normal Goal,L. Dendoncker,Wolves,157364
+74,Goal,Normal Goal,Diogo Jota,Wolves,157364
+45,Goal,Normal Goal,Trézéguet,Aston Villa,157356
+59,Goal,Normal Goal,Trézéguet,Aston Villa,157356
+16,Goal,Normal Goal,A. Lacazette,Arsenal,157362
+19,Goal,Normal Goal,Son Heung-Min,Tottenham,157362
+81,Goal,Normal Goal,T. Alderweireld,Tottenham,157362
+23,Goal,Normal Goal,J. Vardy,Leicester,157355
+66,Goal,Penalty,J. Stanislas,Bournemouth,157355
+67,Goal,Normal Goal,D. Solanke,Bournemouth,157355
+83,Goal,Own Goal,J. Evans,Bournemouth,157355
+87,Goal,Normal Goal,D. Solanke,Bournemouth,157355
+12,Goal,Normal Goal,S. Armstrong,Southampton,157359
+20,Goal,Normal Goal,M. Rashford,Manchester United,157359
+23,Goal,Normal Goal,A. Martial,Manchester United,157359
+90,Goal,Normal Goal,M. Obafemi,Southampton,157359
+45,Goal,Normal Goal,O. Giroud,Chelsea,157367
+76,Goal,Normal Goal,R. Jiménez,Wolves,157366
+90,Goal,Penalty,C. Wood,Burnley,157366
+6,Goal,Normal Goal,David Silva,Manchester City,157371
+39,Goal,Normal Goal,Gabriel Jesus,Manchester City,157371
+88,Goal,Normal Goal,D. Brooks,Bournemouth,157371
+27,Goal,Normal Goal,Son Heung-Min,Tottenham,157372
+56,Goal,Normal Goal,M. Ritchie,Newcastle,157372
+60,Goal,Normal Goal,H. Kane,Tottenham,157372
+90,Goal,Normal Goal,H. Kane,Tottenham,157372
+20,Goal,Normal Goal,S. Mané,Liverpool,157365
+32,Goal,Normal Goal,A. Lacazette,Arsenal,157365
+44,Goal,Normal Goal,R. Nelson,Arsenal,157365
+72,Goal,Normal Goal,E. Konsa,Aston Villa,157369
+87,Goal,Normal Goal,T. Walcott,Everton,157369
+29,Goal,Normal Goal,Ayoze Pérez,Leicester,157370
+79,Goal,Normal Goal,D. Gray,Leicester,157370
+45,Goal,Normal Goal,M. Rashford,Manchester United,157368
+78,Goal,Normal Goal,A. Martial,Manchester United,157368
+17,Goal,Normal Goal,N. Maupay,Brighton,157373
+66,Goal,Normal Goal,D. Ings,Southampton,157373
+6,Goal,Normal Goal,M. Antonio,West Ham,157374
+10,Goal,Normal Goal,T. Souček,West Ham,157374
+36,Goal,Normal Goal,D. Rice,West Ham,157374
+49,Goal,Normal Goal,T. Deeney,Watford,157374
+45,Goal,Normal Goal,C. Wood,Burnley,157380
+80,Goal,Own Goal,B. Godfrey,Burnley,157380
+41,Goal,Normal Goal,D. Ings,Southampton,157375
+90,Goal,Normal Goal,C. Adams,Southampton,157375
+6,Goal,Own Goal,J. Justin,Tottenham,157382
+37,Goal,Normal Goal,H. Kane,Tottenham,157382
+40,Goal,Normal Goal,H. Kane,Tottenham,157382
+46,Goal,Normal Goal,Richarlison,Everton,157381
+41,Goal,Normal Goal,Daniel Podence,Wolves,157384
+68,Goal,Normal Goal,Jonny Castro,Wolves,157384
+31,Goal,Normal Goal,R. Sterling,Manchester City,157383
+40,Goal,Normal Goal,R. Sterling,Manchester City,157383
+63,Goal,Normal Goal,P. Foden,Manchester City,157383
+66,Goal,Normal Goal,A. Laporte,Manchester City,157383
+27,Goal,Normal Goal,Trézéguet,Aston Villa,157376
+45,Goal,Penalty,M. Antonio,West Ham,157379
+51,Goal,Normal Goal,M. Greenwood,Manchester United,157379
+23,Goal,Normal Goal,N. Keïta,Liverpool,157378
+38,Goal,Normal Goal,T. Alexander-Arnold,Liverpool,157378
+43,Goal,Normal Goal,G. Wijnaldum,Liverpool,157378
+45,Goal,Normal Goal,O. Giroud,Chelsea,157378
+54,Goal,Normal Goal,Roberto Firmino,Liverpool,157378
+61,Goal,Normal Goal,T. Abraham,Chelsea,157378
+73,Goal,Normal Goal,C. Pulisic,Chelsea,157378
+84,Goal,Normal Goal,A. Oxlade-Chamberlain,Liverpool,157378
+5,Goal,Penalty,P. Aubameyang,Arsenal,157385
+24,Goal,Normal Goal,K. Tierney,Arsenal,157385
+33,Goal,Normal Goal,P. Aubameyang,Arsenal,157385
+43,Goal,Penalty,T. Deeney,Watford,157385
+66,Goal,Normal Goal,D. Welbeck,Watford,157385
+20,Goal,Normal Goal,Y. Bissouma,Brighton,157386
+44,Goal,Normal Goal,C. Wood,Burnley,157386
+50,Goal,Normal Goal,A. Connolly,Brighton,157386
+45,Goal,Normal Goal,O. Giroud,Chelsea,157387
+45,Goal,Normal Goal,M. Mount,Chelsea,157387
+13,Goal,Normal Goal,H. Kane,Tottenham,157388
+53,Goal,Normal Goal,J. Schlupp,Crystal Palace,157388
+13,Goal,Penalty,J. King,Bournemouth,157389
+41,Goal,Normal Goal,M. Kean,Everton,157389
+45,Goal,Normal Goal,D. Solanke,Bournemouth,157389
+80,Goal,Normal Goal,J. Stanislas,Bournemouth,157389
+71,Goal,Penalty,Bruno Fernandes,Manchester United,157390
+90,Goal,Normal Goal,J. Lingard,Manchester United,157390
+11,Goal,Normal Goal,Gabriel Jesus,Manchester City,157391
+45,Goal,Normal Goal,K. De Bruyne,Manchester City,157391
+79,Goal,Normal Goal,R. Sterling,Manchester City,157391
+83,Goal,Normal Goal,R. Mahrez,Manchester City,157391
+90,Goal,Normal Goal,K. De Bruyne,Manchester City,157391
+1,Goal,Normal Goal,D. Gayle,Newcastle,157392
+38,Goal,Normal Goal,V. van Dijk,Liverpool,157392
+59,Goal,Normal Goal,D. Origi,Liverpool,157392
+89,Goal,Normal Goal,S. Mané,Liverpool,157392
+26,Goal,Normal Goal,J. Lundstram,Sheffield Utd,157393
+50,Goal,Normal Goal,C. Adams,Southampton,157393
+71,Goal,Normal Goal,C. Adams,Southampton,157393
+84,Goal,Penalty,D. Ings,Southampton,157393
+84,Goal,Normal Goal,J. Grealish,Aston Villa,157394
+85,Goal,Normal Goal,A. Yarmolenko,West Ham,157394
